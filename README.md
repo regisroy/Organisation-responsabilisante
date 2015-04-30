@@ -15,6 +15,7 @@
  - [L'entreprise libérée - Film](https://www.youtube.com/watch?v=lGShsSQatN8)
  - [Le bonheur au travail - documentaire ARTE - payant](http://boutique.arte.tv/f10216-bonheur_travail)
  - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
+ - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
 
 ## Articles / Blogs
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
@@ -53,7 +54,7 @@
  - personnalité : Frédéric Lippi
  - video : [TEDx](https://www.youtube.com/watch?v=jwUskTfhbIk)
  
-### IMA tech
+### IMATechnologies
  - activité(s) : Centre d'appel
  - localisation(s) : Nantes
  - personnnalité(s) : Christophe Collignon
@@ -69,7 +70,12 @@
 ### Poult
  - activité : Biscuiterie
  - localisation : 4 sites de production en France
+ - Personnalité : Carlos Verkaeren
  - [site société](http://www.groupe-poult.com/fr)  | [wikipedia](http://fr.wikipedia.org/wiki/Poult)
+ - Vidéos
+   - [Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
+   - [L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
+   - [EDM 2013 - Poult (Lauréat)](https://www.youtube.com/watch?v=2OMLU8jutyM)
 
 ### Sécurité sociale belge
  - personnalité : Laurence Vanhee
