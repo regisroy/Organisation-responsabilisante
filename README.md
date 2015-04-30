@@ -8,7 +8,7 @@
  - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
  - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
 
-## Videos
+## Quelques Videos
  - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
  - [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
