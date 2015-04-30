@@ -68,22 +68,22 @@
 ### Poult
  - activité : Biscuiterie
  - localisation : 4 sites de production en France
- - (site société)[http://www.groupe-poult.com/fr]  | (wikipedia)[http://fr.wikipedia.org/wiki/Poult]
+ - [site société](http://www.groupe-poult.com/fr)  | [wikipedia](http://fr.wikipedia.org/wiki/Poult)
 
 ### Sécurité sociale belge
  - personnalité : Laurence Vanhee
  - Vidéos
-   - (Le bonheur au travail)[https://www.youtube.com/watch?v=wGXUtj6pGEo]
-   - (TEDx)(https://www.youtube.com/watch?v=D2IZG-9TL2E)
+   - [Le bonheur au travail](https://www.youtube.com/watch?v=wGXUtj6pGEo)
+   - [TEDx](https://www.youtube.com/watch?v=D2IZG-9TL2E)
  
 ### Buurtzorg
  - activités : Medical
  - localisation(s) : Pays-bas
  - personalité(s) : Jos de Blok
- - (site société)[http://www.buurtzorgnederland.com/]
+ - [site société](http://www.buurtzorgnederland.com/)
  - articles : 
-   - (Pays Bas : comment réinventer les soins de santé)[http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html]
-   - (Inspiring people and companies to be unique)(http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
+   - [Pays Bas : comment réinventer les soins de santé](http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html)
+   - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
 
 ### Sew Usocom
  -  
