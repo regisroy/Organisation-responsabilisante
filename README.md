@@ -20,7 +20,7 @@
  - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
  - 
  
-## Entreprises intéressantess
+## Entreprises intéressantes
 
 ### FAVI : France
  - activité(s) : Fonderie
