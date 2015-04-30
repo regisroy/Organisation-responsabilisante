@@ -14,6 +14,7 @@
  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
  - [L'entreprise libérée - Film](https://www.youtube.com/watch?v=lGShsSQatN8)
  - [Le bonheur au travail - documentaire ARTE - payant](http://boutique.arte.tv/f10216-bonheur_travail)
+ - [Reinventons nos organisations](https://www.youtube.com/watch?v=NZKqPoQiaDE)
 
 ## Articles / Blogs
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
