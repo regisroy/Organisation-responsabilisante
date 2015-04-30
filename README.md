@@ -9,15 +9,15 @@
  - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
 
 ## Videos
- - (TEDx Isaac Getz)[https://www.youtube.com/watch?v=9oZUMzQDaw8]
- - (Film de présentation des entreprises libérées)[https://www.youtube.com/watch?v=ZrAFpPbz7O4]
- - (Question de confiance - Favi)[https://www.youtube.com/watch?v=pBTdhwXpKOA]
- - (L'entreprise libérée - Film)[https://www.youtube.com/watch?v=lGShsSQatN8]
- - (Le bonheur au travail - documentaire ARTE - payant)[http://boutique.arte.tv/f10216-bonheur_travail]
+ - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
+ - [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
+ - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
+ - [L'entreprise libérée - Film](https://www.youtube.com/watch?v=lGShsSQatN8)
+ - [Le bonheur au travail - documentaire ARTE - payant](http://boutique.arte.tv/f10216-bonheur_travail)
 
 ## Articles / Blogs
- - https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/
- - https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries/
+ - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
+ - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
  - 
  
 ## Entreprises intéressantess
@@ -25,44 +25,45 @@
 ### FAVI : France
  - activité(s) : Fonderie
  - localisation : Hallencourt en picardie
- - (site société)[www.favi.com]  |  (wikipedia)[http://fr.wikipedia.org/wiki/FAVI] 
+ - [site société](www.favi.com)  |  [wikipedia](http://fr.wikipedia.org/wiki/FAVI) 
  - personnalités : Jean-François ZOBRIST
  - articles :
-   - http://blog.zenika.com/index.php?tag/management%20par%20confiance
+   - [Conférence management par la confiance](http://blog.zenika.com/index.php?tag/management%20par%20confiance)
  - livre(s) :
-   - (Comment un petit patron naïf et paresseux innove)[http://www.favi.com/managl.php]
-   - (Un petit patron naïf et paresseux)[http://www.favi.com/managh.php]
-   - (La belle histoire de Favi tome 1 et 2)[http://www.favi.com/managf.php]  
-   - (Un petit patron naïf et paresseux)[http://www.favi.com/managh.php]
+   - [Comment un petit patron naïf et paresseux innove](http://www.favi.com/managl.php)
+   - [Un petit patron naïf et paresseux](http://www.favi.com/managh.php)
+   - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php)  
+   - [Un petit patron naïf et paresseux](http://www.favi.com/managh.php)
  - vidéos
-  - (Conférence MOM21)[https://www.youtube.com/watch?v=KXIy_qlmq1Q&index=10]
-  - (Question de confiance - Favi)[https://www.youtube.com/watch?v=pBTdhwXpKOA]
+  - [Conférence MOM21](https://www.youtube.com/watch?v=KXIy_qlmq1Q&index=10)
+  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
   
 ### Innov-on / Chrono-Flex
  - activité(s) : Dépannage flexibles hydraulique
  - localisation(s) : Nantes avec de mutiples antennes
  - personnalité : Alexandre GERARD
- - (site société)[http://www.chronoflex.fr]
+ - [site société](http://www.chronoflex.fr)
  - Video UODC : 
+   - 
 
 ### Lippi
  - activité(s) : Fabrication de clôtures et grillages
- - (site société)[http://www.lippi.fr/fr/]
+ - [site société](http://www.lippi.fr/fr/)
  - personnalité : Frédéric Lippi
- - video : (TEDx)[https://www.youtube.com/watch?v=jwUskTfhbIk]
+ - video : [TEDx](https://www.youtube.com/watch?v=jwUskTfhbIk)
  
 ### IMA tech
  - activité(s) : Centre d'appel
  - localisation(s) : Nantes
  - personnnalité(s) : Christophe Collignon
- - (site société)[http://www.imatechnologies.fr]  |  (Blog)[https://imatechnologies.wordpress.com/]
+ - [site société](http://www.imatechnologies.fr)  |  [Blog](https://imatechnologies.wordpress.com/)
 
 ### AMI-API
  - activité(s) : tolerie fine (métallurgie)
  - localisation(s) : Rennes
- - (site société)[http://www.toleriefine-metallerie.com/]
+ - [site société](http://www.toleriefine-metallerie.com/)
  - vidéos
-   - (01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT)[https://www.youtube.com/watch?v=J70qXknqkTg]
+   - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
 
 ### Poult
  - activité : Biscuiterie
