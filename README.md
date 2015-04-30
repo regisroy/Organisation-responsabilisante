@@ -92,7 +92,7 @@
    - [Pays Bas : comment réinventer les soins de santé](http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html)
    - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
 
-### Sew Usocom
+### Sew Usocome
  - localisation : Alsace
  - Personnalité : Michel Munzenhuter
  - Vidéos
