@@ -9,5 +9,7 @@ git remote add origin git@github.com:regisroy/Management-par-la-confiance.git
 git push -u origin master
 ```
 …or push an existing repository from the command line
-
-git remote add origin git@github.com:regisroy/Management-par-la-confiance.git git push -u origin master
+```
+git remote add origin git@github.com:regisroy/Management-par-la-confiance.git 
+git push -u origin master
+```
