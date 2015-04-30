@@ -2,11 +2,11 @@
 
 
 ## Principaux Livres
- - (*Reinventing Organizations*)[] de Frédéric LALOUX ((son site)[http://www.reinventingorganizations.com]  |  (vidéo FR)[https://www.youtube.com/watch?v=NZKqPoQiaDE]  |  (vidéo EN)[https://www.youtube.com/watch?v=gcS04BI2sbk])
- - (*Liberté & Cie*)[http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024] de Isaac GETZ et Brian M. CARNEY  ((site)[http://liberteetcie.com] | )
- - (La belle histoire de Favi tome 1 et 2)[http://www.favi.com/managf.php] 
- - (Essentiel du management par la confiance)[http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf]
- - (Happy RH : Le bonheur au travail. Rentable et durable)[http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146] de Laurence Vanhee
+ - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN][https://www.youtube.com/watch?v=gcS04BI2sbk))
+ - [Liberté & Cie]([http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) de Isaac GETZ et Brian M. CARNEY  ([site](http://liberteetcie.com) | )
+ - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php) 
+ - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
+ - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
 
 ## Videos
  - (TEDx Isaac Getz)[https://www.youtube.com/watch?v=9oZUMzQDaw8]
