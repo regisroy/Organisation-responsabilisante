@@ -128,7 +128,7 @@
  - [site société](http://www.davidson.fr/)
 
 ## Carte des entreprise encours de "libération" ou "libérées"
- - [carte des entrprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
+ - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
 
  
