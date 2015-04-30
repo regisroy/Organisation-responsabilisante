@@ -1,14 +1,14 @@
 # Management-Y
 
 
-## Principaux Livres
+## Des Livres
  - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
  - [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) de Isaac GETZ et Brian M. CARNEY  ( [site](http://liberteetcie.com) )
  - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php) de J.F. Zobrist
  - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
  - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
 
-## Quelques Videos
+## Des Videos
  - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
  - [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
@@ -17,12 +17,12 @@
  - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
  - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
 
-## Articles / Blogs
+## Des Articles / Blogs
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
  - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
  - 
  
-## Entreprises intéressantes
+## Des Entreprises intéressantes
 
 ### FAVI : France
  - activité(s) : Fonderie
