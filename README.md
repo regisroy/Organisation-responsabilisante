@@ -85,37 +85,40 @@
    - (Pays Bas : comment réinventer les soins de santé)[http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html]
    - (Inspiring people and companies to be unique)(http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
 
+### Sew Usocom
+ -  
+
 ### SEMCO
  - localisation : Brésil
  - Personnalité : Ricardo Semler
  - Vidéos
-   - (TEDx)[http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life]
+   - [TEDx](http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life)
  - Articles
-   - (Ricardo Semler instaure la démocratie en entreprise)[http://www.souriezvousmanagez.com/ricardo-semler-instaure-la-democratie-en-entreprise/]
+   - [Ricardo Semler instaure la démocratie en entreprise](http://www.souriezvousmanagez.com/ricardo-semler-instaure-la-democratie-en-entreprise/)
 
 ### S.O.L
  - activités : nettoyage
  - personnalité : Liisa Joronen
  - localisation(s) : Finlande
- - (site société)[http://www.sol.fi/en/the-company/about-us/sols-roots.html]
- - (article)[http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html]
+ - [site société](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
+ - [article](http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html)
 
 ### W.L. Gore
  - activités : Textile
  - localisation(s) : USA (multinationale)
  - personnalité(s) : W.L. Gore, Terry Kelly
- - (site société)[http://www.gore.com/en_xx/aboutus/fastfacts/index.html]  |  (fr)[http://www.gore-tex.fr]  |  (wikipedia)[http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates]
+ - [site société](http://www.gore.com/en_xx/aboutus/fastfacts/index.html)  |  [fr](http://www.gore-tex.fr)  |  [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
 
 ### Morning Star
- - (wikipedia)[http://en.wikipedia.org/wiki/The_Morning_Star_Company]
+ - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
  
 ### Davidson Consulting
  - activié(s) : Audit, Consulting informatique
  - localiation(s) : France
- - (site société)[http://www.davidson.fr/]
+ - [site société](http://www.davidson.fr/)
 
 ## Carte des entreprise encours de "libération" ou "libérées"
- - https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc
+ - [carte des entrprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
 
  
