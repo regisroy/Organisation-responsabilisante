@@ -93,7 +93,10 @@
    - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
 
 ### Sew Usocom
- -  
+ - localisation : Alsace
+ - Personnalité : Michel Munzenhuter
+ - Vidéos
+   - [Sew Usocome, l'entreprise libérée](https://www.youtube.com/watch?v=M_kr-YTuaR0)
 
 ### SEMCO
  - localisation : Brésil
