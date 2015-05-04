@@ -128,7 +128,7 @@
  - [site société](http://www.davidson.fr/)
 
 ### Agesys
- - 
+ - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
 ### PocheEco
  - 
