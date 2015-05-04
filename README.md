@@ -41,12 +41,12 @@
   - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
   
 ### Innov-on / Chrono-Flex
- - activité(s) : Dépannage flexibles hydraulique
- - localisation(s) : Nantes avec de mutiples antennes
+ - activité(s) : Dépannage de flexibles hydraulique
+ - localisation : Nantes avec de mutiples agences en France
  - personnalité : Alexandre GERARD
  - [site société](http://www.chronoflex.fr)
- - Video UODC : 
-   - 
+ - Video : 
+   - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
 
 ### Lippi
  - activité(s) : Fabrication de clôtures et grillages
@@ -62,7 +62,7 @@
 
 ### AMI-API
  - activité(s) : tolerie fine (métallurgie)
- - localisation(s) : Rennes
+ - localisation : Rennes
  - [site société](http://www.toleriefine-metallerie.com/)
  - vidéos
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
@@ -126,6 +126,19 @@
  - activié(s) : Audit, Consulting informatique
  - localiation(s) : France
  - [site société](http://www.davidson.fr/)
+
+### Agesys
+ - 
+ 
+### PocheEco
+ - 
+
+### Entreprises se lançant dans la libération
+ - Michelin (usines)
+ - Auchan (magasins)
+ - Kiabi (magasins)
+ - Décathlon (magasins)
+ - 
 
 ## Carte des entreprise encours de "libération" ou "libérées"
  - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
