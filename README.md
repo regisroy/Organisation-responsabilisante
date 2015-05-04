@@ -133,6 +133,10 @@
 ### PocheEco
  - 
 
+### Poterie Lorraine
+ - Article
+   - [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
+
 ### Entreprises se lançant dans la libération
  - Michelin (usines)
  - Auchan (magasins)
