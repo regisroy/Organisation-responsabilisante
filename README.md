@@ -1,4 +1,4 @@
-# Entreprise Libérée - Management-Y
+# Entreprise Libérée - Management Y
 
 
 ## Des Livres
