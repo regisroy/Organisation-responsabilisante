@@ -131,9 +131,12 @@
  - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
 ### PocheEco
- - 
+ - [site société](http://www.pocheco.com)
+ - Article
+   - [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 
 ### Poterie Lorraine
+ - [site société](http://www.poterie-lorraine.com)
  - Article
    - [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
 
