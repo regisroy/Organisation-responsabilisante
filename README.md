@@ -121,6 +121,8 @@
 
 ### Morning Star
  - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
+ - Vidéo
+   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
  
 ### Davidson Consulting
  - activié(s) : Audit, Consulting informatique
@@ -132,7 +134,7 @@
  
 ### PocheEco
  - [site société](http://www.pocheco.com)
- - Article
+ - Articles
    - [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 
 ### Poterie Lorraine
@@ -150,7 +152,8 @@
 ## Carte des entreprise encours de "libération" ou "libérées"
  - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
-
+## Quelques Références suplémentaires
+### 
  
  
 
