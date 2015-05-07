@@ -20,7 +20,7 @@
 ## Des Articles / Blogs
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
  - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
- - 
+ - [Et d'autres articles](articles.md)
  
 ## Des Entreprises intéressantes
 
