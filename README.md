@@ -152,8 +152,9 @@
 ## Carte des entreprise encours de "libération" ou "libérées"
  - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
-## Quelques Références suplémentaires
-### 
+## Pr. Shoji Shiba
+ - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
+ - 
  
 
 
