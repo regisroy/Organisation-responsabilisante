@@ -1,5 +1,8 @@
 # Entreprise Libérée - Management Y
 
+## Définition
+Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) d'Isaac GETZ et Brian M. CARNEY.
+> Il s'agit d'une entreprise dont la majorité de salariées sont complètement libres et responsables d'entreprendre toute action qu'eux mêmes--pas leurs chefs ou les procédures--décident comme les meilleures pour la vision de leur entreprise.
 
 ## Des Livres
  - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
