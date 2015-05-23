@@ -162,10 +162,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
  - 
  
-## Controverses
+## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture)
+ - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf)
  - 
-
 
 [:baggage_claim:coin technique](technique.md)
 
