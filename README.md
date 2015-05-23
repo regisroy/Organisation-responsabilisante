@@ -166,7 +166,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Pr. Shoji Shiba
  - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
- - 
+ 
+## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters)
+ - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
  
 ## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture)
