@@ -143,15 +143,14 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### Agesys
  - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
-### PocheEco
- - [site société](http://www.pocheco.com)
- - Articles
-   - [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
+### [PocheEco](http://www.pocheco.com)
+ - Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 
-### Poterie Lorraine
- - [site société](http://www.poterie-lorraine.com)
- - Article
-   - [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
+### [Poterie Lorraine](http://www.poterie-lorraine.com)
+ - Article : [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
+
+### [Bretagne Ateliers](http://www.bretagne-ateliers.com)
+ - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
 
 ### Entreprises se lançant dans la libération
  - Michelin (usines)
