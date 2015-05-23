@@ -5,10 +5,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 > Il s'agit d'une entreprise dont la majorité de salariées sont complètement libres et responsables d'entreprendre toute action qu'eux mêmes--pas leurs chefs ou les procédures--décident comme les meilleures pour la vision de leur entreprise.
 
 ## Des Livres
- - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
  - [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) de Isaac GETZ et Brian M. CARNEY  ( [site](http://liberteetcie.com) )
  - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php) de J.F. Zobrist
  - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
+ - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
  - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
 
 ## Des Videos
@@ -24,6 +24,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
  - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
  - [Et d'autres articles](articles.md)
+ - [MOM21](http://www.mom21.org)
  
 ## Des Entreprises intéressantes
 
@@ -50,6 +51,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [site société](http://www.chronoflex.fr)
  - Video : 
    - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
+   - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
 
 ### Lippi
  - activité(s) : Fabrication de clôtures et grillages
@@ -159,7 +161,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
  - 
  
-
+## Controverses
+ - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture)
+ - 
 
 
 [:baggage_claim:coin technique](technique.md)
