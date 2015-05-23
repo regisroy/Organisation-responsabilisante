@@ -19,6 +19,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Le bonheur au travail - documentaire ARTE - payant](http://boutique.arte.tv/f10216-bonheur_travail)
  - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
  - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
+ - [Autres vidéos](videos.md)
 
 ## Des Articles / Blogs
  - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
