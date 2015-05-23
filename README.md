@@ -54,11 +54,12 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
    - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
 
-### Lippi
+### [Lippi](http://www.lippi.fr/fr/)
  - activité(s) : Fabrication de clôtures et grillages
- - [site société](http://www.lippi.fr/fr/)
  - personnalité : Frédéric Lippi
  - video : [TEDx](https://www.youtube.com/watch?v=jwUskTfhbIk)
+ - articles
+   - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html) 
  
 ### IMATechnologies
  - activité(s) : Centre d'appel
