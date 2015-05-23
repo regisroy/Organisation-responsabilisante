@@ -164,7 +164,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  
 ## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture)
- - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf)
+ - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
  - 
 
 [:baggage_claim:coin technique](technique.md)
