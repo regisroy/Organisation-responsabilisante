@@ -130,9 +130,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - Vidéo
    - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
 
-### HCL
- - personnalité : Vineet Nayar
- - article : [L'homme qui réinvente le management](http://archives.lesechos.fr/archives/cercle/2011/06/01/cercle_35596.htm)
+### [HCL](http://www.hcltech.com)
+ - personnalité : [Vineet Nayar](http://vineetnayar.com)
+ - articles
+   - [L'homme qui réinvente le management](http://archives.lesechos.fr/archives/cercle/2011/06/01/cercle_35596.htm)
+   - [La pyramide inversée de monsieur Nayar](http://www.paristechreview.com/2011/06/02/pyramide-inversee-nayar)
  - livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
 
 ### Davidson Consulting
