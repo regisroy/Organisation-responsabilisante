@@ -45,14 +45,15 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
   - [Conférence MOM21](https://www.youtube.com/watch?v=KXIy_qlmq1Q&index=10)
   - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
   
-### Innov-on / Chrono-Flex
+### [Innov-on / Chrono-Flex](http://www.chronoflex.fr)
  - activité(s) : Dépannage de flexibles hydraulique
  - localisation : Nantes avec de mutiples agences en France
  - personnalité : Alexandre GERARD
- - [site société](http://www.chronoflex.fr)
+ - [Blog](http://liberation-entreprise.org) [twitter]()
  - Video : 
    - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
    - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
+   - [Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
 
 ### [Lippi](http://www.lippi.fr/fr/)
  - activité(s) : Fabrication de clôtures et grillages
@@ -61,11 +62,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - articles
    - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html) 
  
-### IMATechnologies
+### [IMATechnologies](http://www.imatechnologies.fr)
  - activité(s) : Centre d'appel
  - localisation(s) : Nantes
  - personnnalité(s) : Christophe Collignon
- - [site société](http://www.imatechnologies.fr)  |  [Blog](https://imatechnologies.wordpress.com/)
+ - [Blog](https://imatechnologies.wordpress.com/)
 
 ### AMI-API
  - activité(s) : tolerie fine (métallurgie)
@@ -74,11 +75,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - vidéos
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
 
-### Poult
+### [Poult](http://www.groupe-poult.com/fr)
  - activité : Biscuiterie
  - localisation : 4 sites de production en France
  - Personnalité : Carlos Verkaeren
- - [site société](http://www.groupe-poult.com/fr)  | [wikipedia](http://fr.wikipedia.org/wiki/Poult)
+ - [wikipedia](http://fr.wikipedia.org/wiki/Poult)
  - Vidéos
    - [Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
    - [L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
@@ -90,11 +91,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [Le bonheur au travail](https://www.youtube.com/watch?v=wGXUtj6pGEo)
    - [TEDx](https://www.youtube.com/watch?v=D2IZG-9TL2E)
  
-### Buurtzorg
+### [Buurtzorg](http://www.buurtzorgnederland.com)
  - activités : Medical
  - localisation(s) : Pays-bas
  - personalité(s) : Jos de Blok
- - [site société](http://www.buurtzorgnederland.com/)
  - articles : 
    - [Pays Bas : comment réinventer les soins de santé](http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html)
    - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
@@ -113,18 +113,17 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - Articles
    - [Ricardo Semler instaure la démocratie en entreprise](http://www.souriezvousmanagez.com/ricardo-semler-instaure-la-democratie-en-entreprise/)
 
-### S.O.L
+### [S.O.L](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
  - activités : nettoyage
  - personnalité : Liisa Joronen
  - localisation(s) : Finlande
- - [site société](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
  - [article](http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html)
 
-### W.L. Gore
+### [W.L. Gore](http://www.gore.com/en_xx/aboutus/fastfacts/index.html) [FR](http://www.gore-tex.fr)
  - activités : Textile
  - localisation(s) : USA (multinationale)
  - personnalité(s) : W.L. Gore, Terry Kelly
- - [site société](http://www.gore.com/en_xx/aboutus/fastfacts/index.html)  |  [fr](http://www.gore-tex.fr)  |  [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
+ - [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
 
 ### Morning Star
  - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
@@ -138,12 +137,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [La pyramide inversée de monsieur Nayar](http://www.paristechreview.com/2011/06/02/pyramide-inversee-nayar)
  - livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
 
-### Davidson Consulting
+### [Davidson Consulting](http://www.davidson.fr)
  - activié(s) : Audit, Consulting informatique
  - localiation(s) : France
- - [site société](http://www.davidson.fr/)
 
-### Agesys
+### [Agesys](http://www.agesys.fr)
  - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
 ### [PocheEco](http://www.pocheco.com)
