@@ -171,8 +171,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Quelques citations
 > Seul on va plus vite, Ensemble on va plus loin.
+
 > Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?
+
 > Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.
+
 > Que d'effort il faut faire pour ne pas agir.
 
 ## Controverses / Contre
