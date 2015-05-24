@@ -9,6 +9,7 @@
 - [Favi : Question de confiance](https://www.youtube.com/watch?v=pBTdhwXpKOA)
 - [Chrono Flex : Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
 - [Chrono Flex : Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
+- [Chrono Flex : Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
 - [Lippi : TEDx pas Frédéric Lippi](https://www.youtube.com/watch?v=jwUskTfhbIk)
 - [AVI-AMI : 01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg) (conférence de Jean-François Zobrist)
 - [Poult : Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
