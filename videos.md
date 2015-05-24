@@ -23,5 +23,5 @@
 - [Michelin : Organisations responsabilisantes Michelin](https://www.youtube.com/watch?v=vQIabPEgN3U)
 - Conférences Jean-François Zobrist
   - [pour I2D](https://vimeo.com/66659970 )
-  - [chez AVI-AMI - 01]https://www.youtube.com/watch?v=J70qXknqkTg)  épisodes suivants [02](https://www.youtube.com/watch?v=c_NvVdmfBzc)  [03](https://www.youtube.com/watch?v=-jm1QROzRAM)  [04](https://www.youtube.com/watch?v=vmcA2-Soamk)  [05](https://www.youtube.com/watch?v=WjaBtct5_Ns)  [06](https://www.youtube.com/watch?v=fPwGRGSXbyw)  [07](https://www.youtube.com/watch?v=amoZuEu1I80)  [08](https://www.youtube.com/watch?v=8G1sSEaRKks)
+  - [chez AVI-AMI - 01](https://www.youtube.com/watch?v=J70qXknqkTg)  épisodes suivants [02](https://www.youtube.com/watch?v=c_NvVdmfBzc)  [03](https://www.youtube.com/watch?v=-jm1QROzRAM)  [04](https://www.youtube.com/watch?v=vmcA2-Soamk)  [05](https://www.youtube.com/watch?v=WjaBtct5_Ns)  [06](https://www.youtube.com/watch?v=fPwGRGSXbyw)  [07](https://www.youtube.com/watch?v=amoZuEu1I80)  [08](https://www.youtube.com/watch?v=8G1sSEaRKks)
 - ...
