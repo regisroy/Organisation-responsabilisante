@@ -172,7 +172,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
  
 ## Controverses / Contre
- - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture)
+ - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
  - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
  - 
 
