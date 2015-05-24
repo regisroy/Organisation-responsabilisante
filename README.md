@@ -68,10 +68,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - personnnalité(s) : Christophe Collignon
  - [Blog](https://imatechnologies.wordpress.com/)
 
-### AMI-API
+### [AMI-API](http://www.toleriefine-metallerie.com)
  - activité(s) : tolerie fine (métallurgie)
  - localisation : Rennes
- - [site société](http://www.toleriefine-metallerie.com/)
  - vidéos
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
 
@@ -99,7 +98,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [Pays Bas : comment réinventer les soins de santé](http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html)
    - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
 
-### Sew Usocome
+### [Sew Usocome](http://www.usocome.com)
  - localisation : Alsace
  - Personnalité : Michel Munzenhuter
  - Vidéos
