@@ -11,7 +11,6 @@
 - [Chrono Flex : Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
 - [Chrono Flex : Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
 - [Lippi : TEDx pas Frédéric Lippi](https://www.youtube.com/watch?v=jwUskTfhbIk)
-- [AVI-AMI : 01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)  épisodes suivants [02](https://www.youtube.com/watch?v=c_NvVdmfBzc)  [03](https://www.youtube.com/watch?v=-jm1QROzRAM)  [04](https://www.youtube.com/watch?v=vmcA2-Soamk)  [05](https://www.youtube.com/watch?v=WjaBtct5_Ns)  [06](https://www.youtube.com/watch?v=fPwGRGSXbyw)  [07](https://www.youtube.com/watch?v=amoZuEu1I80)  [08](https://www.youtube.com/watch?v=8G1sSEaRKks)  (conférence de Jean-François Zobrist)
 - [Poult : Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
 - [Poult : L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
 - [Poult : EDM 2013 - Poult (Lauréat)](https://www.youtube.com/watch?v=2OMLU8jutyM)
@@ -22,4 +21,7 @@
 - [Morning Star : Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
 - [Michelin : la libération](https://www.youtube.com/watch?v=SZrAoqV3PsY)
 - [Michelin : Organisations responsabilisantes Michelin](https://www.youtube.com/watch?v=vQIabPEgN3U)
+- Conférences Jean-François Zobrist
+  - [pour I2D](https://vimeo.com/66659970 )
+  - [chez AVI-AMI - 01]https://www.youtube.com/watch?v=J70qXknqkTg)  épisodes suivants [02](https://www.youtube.com/watch?v=c_NvVdmfBzc)  [03](https://www.youtube.com/watch?v=-jm1QROzRAM)  [04](https://www.youtube.com/watch?v=vmcA2-Soamk)  [05](https://www.youtube.com/watch?v=WjaBtct5_Ns)  [06](https://www.youtube.com/watch?v=fPwGRGSXbyw)  [07](https://www.youtube.com/watch?v=amoZuEu1I80)  [08](https://www.youtube.com/watch?v=8G1sSEaRKks)
 - ...
