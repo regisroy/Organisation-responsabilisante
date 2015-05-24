@@ -169,13 +169,13 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
 
 ## Quelques citations
- > Seul on va plus vite, Ensemble on va plus loin.   
+ > 1 : Seul on va plus vite, Ensemble on va plus loin.   
 
- > Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?   
+ > 2 : Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?   
 
- > Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.   
+ > 3 : Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.   
 
- > Que d'effort il faut faire pour ne pas agir.   
+ > 4 : Que d'effort il faut faire pour ne pas agir.   
 
 ## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
