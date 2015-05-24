@@ -49,7 +49,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - activité(s) : Dépannage de flexibles hydraulique
  - localisation : Nantes avec de mutiples agences en France
  - personnalité : Alexandre GERARD
- - [Blog](http://liberation-entreprise.org) [twitter]()
+ - [Blog](http://liberation-entreprise.org) [twitter](https://twitter.com/chronoflex)
  - Video : 
    - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
    - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
@@ -62,7 +62,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - articles
    - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html) 
  
-### [IMATechnologies](http://www.imatechnologies.fr)
+### [IMA Technologies](http://www.imatechnologies.fr)
  - activité(s) : Centre d'appel
  - localisation(s) : Nantes
  - personnnalité(s) : Christophe Collignon
