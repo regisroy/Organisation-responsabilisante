@@ -170,14 +170,14 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Quelques citations
 - 1  
-> Seul on va plus vite, Ensemble on va plus loin.   
+ > Seul on va plus vite, Ensemble on va plus loin.   
 - 2  
-> Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?   
+ > Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?   
 - 3  
-> Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.   
+ > Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.   
 - 4  
-> Que d'effort il faut faire pour ne pas agir.   
- 
+ > Que d'effort il faut faire pour ne pas agir.   
+
 ## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
  - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
