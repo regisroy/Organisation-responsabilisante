@@ -168,11 +168,17 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
  - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
- 
+
+## Quelques citations
+> Seul on va plus vite, Ensemble on va plus loin.
+> Si je veux changer dans mon entreprise, que suis-je prêt à changer en moi d'abord ?
+> Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.
+> Que d'effort il faut faire pour ne pas agir.
+
 ## Controverses / Contre
  - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
  - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
- - 
+ - ...
 
 [:baggage_claim:coin technique](technique.md)
 
