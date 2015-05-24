@@ -20,3 +20,5 @@
 - [Sew Usocome : l'entreprise libérée](https://www.youtube.com/watch?v=M_kr-YTuaR0)
 - [Semco : TEDx par Ricardo Semler](http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life)
 - [Morning Star : Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
+- [Michelin : la libération](https://www.youtube.com/watch?v=SZrAoqV3PsY)
+- 
