@@ -29,10 +29,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  
 ## Des Entreprises intéressantes
 
-### FAVI : France
+### [FAVI](www.favi.com) : France
  - activité(s) : Fonderie
  - localisation : Hallencourt en picardie
- - [site société](www.favi.com)  |  [wikipedia](http://fr.wikipedia.org/wiki/FAVI) 
+ - [wikipedia](http://fr.wikipedia.org/wiki/FAVI) 
  - personnalités : Jean-François ZOBRIST
  - articles :
    - [Conférence management par la confiance](http://blog.zenika.com/index.php?tag/management%20par%20confiance)
