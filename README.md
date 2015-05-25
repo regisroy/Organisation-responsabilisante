@@ -16,7 +16,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
  - [L'entreprise libérée - Film](https://www.youtube.com/watch?v=lGShsSQatN8)
- - [Le bonheur au travail - documentaire ARTE - payant](http://boutique.arte.tv/f10216-bonheur_travail)
+ - [Le bonheur au travail - documentaire ARTE - VOD](http://boutique.arte.tv/f10216-bonheur_travail)
  - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
  - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
  - [Autres vidéos](videos.md)
