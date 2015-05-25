@@ -126,48 +126,54 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
 
 ### Morning Star
- - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
- - Vidéo
-   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
+- [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
+- Vidéo
+  - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
+
+### [Patagonia](http://www.patagonia.com/eu/frFR)
+- [Patagonia veut jeter les bases d'un capitalisme responsable](http://www.courrierinternational.com/article/2013/02/15/patagonia-veut-jeter-les-bases-d-un-capitalisme-responsable)
+
+### [Probionov](http://www.probionov.com/fr)
+- [Fini l'autoritarisme, Bonjour l'intelligence collective !](https://drive.google.com/file/d/0B3ijWVPIoL0nalE5dFhvSkxBRDg/edit)
 
 ### [HCL](http://www.hcltech.com)
- - personnalité : [Vineet Nayar](http://vineetnayar.com)
- - articles
-   - [L'homme qui réinvente le management](http://archives.lesechos.fr/archives/cercle/2011/06/01/cercle_35596.htm)
-   - [La pyramide inversée de monsieur Nayar](http://www.paristechreview.com/2011/06/02/pyramide-inversee-nayar)
- - livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
+- personnalité : [Vineet Nayar](http://vineetnayar.com)
+- articles
+  - [L'homme qui réinvente le management](http://archives.lesechos.fr/archives/cercle/2011/06/01/cercle_35596.htm)
+  - [La pyramide inversée de monsieur Nayar](http://www.paristechreview.com/2011/06/02/pyramide-inversee-nayar)
+- livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
 
 ### [Davidson Consulting](http://www.davidson.fr)
- - activié(s) : Audit, Consulting informatique
- - localiation(s) : France
+- activié(s) : Audit, Consulting informatique
+- localiation(s) : France
 
 ### [Agesys](http://www.agesys.fr)
- - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
+- [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
 ### [PocheEco](http://www.pocheco.com)
- - Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
+- Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 
 ### [Poterie Lorraine](http://www.poterie-lorraine.com)
- - Article : [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
+- Article : [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
 
 ### [Bretagne Ateliers](http://www.bretagne-ateliers.com)
- - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
+- article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
 
 ### Entreprises se lançant dans la libération
- - Michelin (usines)
- - Auchan (magasins)
- - Kiabi (magasins)
- - Décathlon (magasins)
- - Ikea (Relation client - Martial Le Hiress)
+- Michelin (usines)
+- Auchan (magasins)
+- Kiabi (magasins)
+- Décathlon (magasins)
+- Ikea (Relation client - Martial Le Hiress)
 
 ## Carte des entreprise encours de "libération" ou "libérées"
- - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
+- [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
 ## Pr. Shoji Shiba
- - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
+- [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
  
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
- - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
+- livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
 
 ## Quelques citations
  > 1 : Seul on va plus vite, Ensemble on va plus loin.   
@@ -179,9 +185,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  > 4 : Que d'effort il faut faire pour ne pas agir.   
 
 ## Controverses / Contre
- - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
- - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
- - ...
+- [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
+- [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
+- ...
 
 [:baggage_claim:coin technique](technique.md)
 
