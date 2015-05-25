@@ -1,4 +1,4 @@
-# Entreprise Libérée - Management Y - Teal enterprise
+# Entreprise Libérée - Entreprise Y - Teal enterprise
 
 ## Définition
 Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) d'Isaac GETZ et Brian M. CARNEY.
@@ -26,6 +26,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Aiseco](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
  - [Et d'autres articles](articles.md)
  - [MOM21](http://www.mom21.org)
+ - [Nicolas Cordier](https://nicolascordier.wordpress.com)
  
 ## Des Entreprises intéressantes
 
@@ -166,12 +167,23 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Décathlon (magasins)
 - Ikea (Relation client - Martial Le Hiress)
 
+## Frédéric Laloux et "Reinventing Organizations"
+- [Reinventing Organization : site](http://www.reinventingorganizations.com)
+- [Reinventing Organization : les différents paradigmes des organisations](http://awperformances.com/project/reinventing-organization-les-differents-paradigmes-des-organisations/)
+- Videos
+  - Frédéric Laloux [FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [EN](https://www.youtube.com/watch?v=gcS04BI2sbk])  
+
 ## Carte des entreprise encours de "libération" ou "libérées"
 - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
 
 ## Pr. Shoji Shiba
 - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
- 
+
+## Douglas Mc Gregor (Les entreprises X et les Y)
+- [wikiedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
+
+
+
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
 - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
 
