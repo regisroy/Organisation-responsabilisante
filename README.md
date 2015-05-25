@@ -1,4 +1,4 @@
-# Entreprise Libérée - Management Y
+# Entreprise Libérée - Management Y - Teal enterprise
 
 ## Définition
 Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) d'Isaac GETZ et Brian M. CARNEY.
