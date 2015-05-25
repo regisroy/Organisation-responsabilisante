@@ -179,8 +179,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ## Pr. Shoji Shiba
 - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
 
-## Douglas Mc Gregor (Les entreprises X et les Y)
-- [wikiedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
+## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
+- [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
 
 
 
