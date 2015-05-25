@@ -71,6 +71,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### [AMI-API](http://www.toleriefine-metallerie.com)
  - activité(s) : tolerie fine (métallurgie)
  - localisation : Rennes
+ - Article : [Notre Management Ethique](http://www.toleriefine-metallerie.com/management/notre-management.php)
  - vidéos
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
 
