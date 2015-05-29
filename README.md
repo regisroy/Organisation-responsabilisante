@@ -28,7 +28,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
  - [... Et d'autres articles](articles.md)
  
-## Des Entreprises intéressantes
+## Des entreprises libérées
 
 ### [FAVI](www.favi.com) : France
  - activité(s) : Fonderie
