@@ -208,7 +208,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [HolacracyOne](http://www.holacracy.org)
 - [Sociocratie](http://fr.wikipedia.org/wiki/Sociocratie)
  - [sociocratie.net ](http://www.sociocratie.net/Theorie)
-- Sociodynamique
+- [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
 
 [:baggage_claim:coin technique](technique.md)
 
