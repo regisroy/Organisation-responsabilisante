@@ -203,5 +203,12 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
 - ...
 
+## Autour des "Entreprises Libérées", "Teal Organizations"
+- [Holacratie](http://fr.wikipedia.org/wiki/Holacratie)
+ - [HolacracyOne](http://www.holacracy.org)
+- [Sociocratie](http://fr.wikipedia.org/wiki/Sociocratie)
+ - [sociocratie.net ](http://www.sociocratie.net/Theorie)
+- Sociodynamique
+
 [:baggage_claim:coin technique](technique.md)
 
