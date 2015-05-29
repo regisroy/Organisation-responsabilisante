@@ -5,4 +5,5 @@
 - [Les échos - Le business model des entreprises libérées](http://www.lesechos.fr/idees-debats/cercle/cercle-130163-le-business-model-des-entreprises-liberees-1107801.php)
 - [Reinventing Organization : les différents paradigmes des organisations](http://awperformances.com/project/reinventing-organization-les-differents-paradigmes-des-organisations)
 - [Réponse à 8 questions clés sur les entreprises libérées et autres organisations émergentes](http://brigittequinton.blogspot.fr/2015/05/reponse-8-questions-cles-sur-les.html)
+- [3 pistes concrètes pour libérer vos équipes et, votre posture !](http://reussitepartagee.com/wp/manager-ou-leader-3-pistes-posture-pour-liberer-vos-equipes-solutions)
 - ...
