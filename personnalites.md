@@ -61,6 +61,8 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 - :books: [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146)
 - ![Blog](blog.png) [missphilomene.com](http://missphilomene.com)
 - autres sites : [actus](http://www.scoop.it/t/happy-organisation)  -  [alterforhum.be](http://alterforhum.be/index.php)  -  [happinessday.be](www.happinessday.be) 
+- articles
+ - [l'usine nouvelle : Travailler dans la joie et la bonne humeur n’est pas contradictoire avec la performance](http://www.usinenouvelle.com/article/travailler-dans-la-joie-et-la-bonne-humeur-n-est-pas-contradictoire-avec-la-performance-rappelle-laurence-vanhee.N215663) 
 
 ## Carlos Verkaeren
 
