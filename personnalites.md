@@ -12,7 +12,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
  
 ## Jean-François Chauvet
 - Auteur, consultant, professeur, père de la sociodynamique
-- ![W] 
+- ![W](wikipedia.png) 
 - :books:
  - 
 
@@ -25,7 +25,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 
 ## W.L. Gore
 - ancien patron de la société Gore
-- ![W]
+- ![W](wikipedia.png)   
 
 ## Liisa Joronen
 - patron de la société S.O.L.
@@ -37,7 +37,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Frédéric Lippi
 
 ## Douglas Mc Gregor
-- ![W]
+- ![W](wikipedia.png)   
 
 ## Michel Munzenhuter
 
@@ -53,7 +53,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
  -  
 
 ## Shoji Shiba
-- ![W] 
+- ![W](wikipedia.png)  
 
 ## Ricardo Semler
 
@@ -62,6 +62,6 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Carlos Verkaeren
 
 ## Jean-François Zobrist
-- ![W]
+- ![W](wikipedia.png)  
 
 ## ...
