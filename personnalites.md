@@ -36,9 +36,11 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Vineet Nayar
 - ancien ppatron de la société HCL
 - livre : Les employés d'abord, les clients ensuite
+- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Vineet_Nayar)  [FR](http://fr.wikipedia.org/wiki/Vineet_Nayar)
 
 ## [Tom Peters](http://tompeters.com)
-- auteur de 
+- Professeur en management
+- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Tom_Peters)  [FR](http://fr.wikipedia.org/wiki/Tom_Peters)
 
 ## Shoji Shiba
 
