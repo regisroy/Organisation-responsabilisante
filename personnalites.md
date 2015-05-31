@@ -9,6 +9,12 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 
 ## Jos de Blok
 - patron de la société Buurtzorg
+ 
+## Jean-François Chauvet
+- Auteur, consultant, professeur, père de la sociodynamique
+- ![W] 
+- :books:
+ - 
 
 ## Isaac Getz
 - Professeur à  l'école de management ESCP Europe
@@ -19,6 +25,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 
 ## W.L. Gore
 - ancien patron de la société Gore
+- ![W]
 
 ## Liisa Joronen
 - patron de la société S.O.L.
@@ -30,26 +37,31 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Frédéric Lippi
 
 ## Douglas Mc Gregor
+- ![W]
 
 ## Michel Munzenhuter
 
 ## Vineet Nayar
-- ancien ppatron de la société HCL
+- ancien patron de la société HCL
 - livre : Les employés d'abord, les clients ensuite
-- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Vineet_Nayar)  [FR](http://fr.wikipedia.org/wiki/Vineet_Nayar)
+- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Vineet_Nayar)  |   [FR](http://fr.wikipedia.org/wiki/Vineet_Nayar)
 
 ## [Tom Peters](http://tompeters.com)
 - Professeur en management
-- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Tom_Peters)  [FR](http://fr.wikipedia.org/wiki/Tom_Peters)
+- ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Tom_Peters)  |  [FR](http://fr.wikipedia.org/wiki/Tom_Peters)
+- :books: 
+ -  
 
 ## Shoji Shiba
+- ![W] 
 
 ## Ricardo Semler
 
-## Laurence Vanhee
+## Laurence Vanhée
 
 ## Carlos Verkaeren
 
 ## Jean-François Zobrist
+- ![W]
 
-## 
+## ...
