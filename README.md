@@ -9,7 +9,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php) de J.F. Zobrist
 - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
 - [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
-- [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhee
+- [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhée
 
 ## Des Videos
 - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
@@ -88,7 +88,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [EDM 2013 - Poult (Lauréat)](https://www.youtube.com/watch?v=2OMLU8jutyM)
 
 ### Sécurité sociale belge
-- personnalité : Laurence Vanhee
+- personnalité : Laurence Vanhée
 - localisation : Belgique
 - Vidéos
    - [Le bonheur au travail](https://www.youtube.com/watch?v=wGXUtj6pGEo)
@@ -151,15 +151,19 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - localiation(s) : France
 
 ### [Agesys](http://www.agesys.fr)
+- localisation : Noyon, France
 - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
  
 ### [PocheEco](http://www.pocheco.com)
+- localisation : Nord, France
 - Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 
 ### [Poterie Lorraine](http://www.poterie-lorraine.com)
+- localisation : Lorraine, France
 - Article : [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
 
 ### [Bretagne Ateliers](http://www.bretagne-ateliers.com)
+- localisation : Bretagne, France
 - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
 
 ### Entreprises se lançant dans la libération
@@ -183,7 +187,6 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
 - [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
-
 
 
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
