@@ -119,14 +119,16 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### [S.O.L](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
 - activités : nettoyage
 - personnalité : Liisa Joronen
-- localisation(s) : Finlande
+- localisation : Finlande
 - [article](http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html)
 
-### [W.L. Gore](http://www.gore.com/en_xx/aboutus/fastfacts/index.html) [FR](http://www.gore-tex.fr)
+### [WL Gore and associates](http://www.gore.com/en_xx/aboutus/fastfacts/index.html)  -  [FR](http://www.gore-tex.fr)
 - activités : Textile
-- localisation(s) : USA, France, Allemagne, ... (multinationale)
-- personnalité(s) : W.L. Gore, Terry Kelly
+- localisation : USA, France, Allemagne, ... (multinationale)
+- personnalité : W.L. Gore, Terry Kelly
  - [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
+- :newspaper:
+ - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
 
 ### Morning Star
 - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)

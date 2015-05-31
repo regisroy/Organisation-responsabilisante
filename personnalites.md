@@ -18,7 +18,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 
 ## Isaac Getz
 - Professeur à  l'école de management ESCP Europe
-- livre : Liberté & cie
+- :books: : [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024)
 
 ## Alexandre Gérard
 - patron de l'entreprise Chrono-flex / Innov-on
@@ -67,6 +67,9 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Carlos Verkaeren
 
 ## Jean-François Zobrist
-- ![W](wikipedia.png)  
+- ![Wikipedia](wikipedia.png)  
+- :books:
+ - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
+ - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php)
 
 ## ...
