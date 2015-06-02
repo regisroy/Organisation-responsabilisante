@@ -31,6 +31,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ## Des entreprises libérées
 
 ### Sogilis
+- activité : SSII
+- localisation : Grenoble
+- personnalité : Christophe Baillon
 - article : [Un exemple d’entreprise libérée : Sogilis](http://www.contrepoints.org/2015/05/28/209048-un-exemple-dentreprise-liberee-sogilis)
 - vidéo : [Présentation de Christophe Baillon (Sogilis) - Press Club de France ](https://www.youtube.com/watch?v=QVf5MVV4XZQ)
 
