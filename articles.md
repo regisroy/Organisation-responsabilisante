@@ -11,4 +11,6 @@
 - Gore :
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
 - [Le mouvement des entreprises libérées](http://www.contrepoints.org/2015/04/30/206168-le-mouvement-des-entreprises-liberees)
+- introduction
+ - [Huit questions sur l'entreprise libérée](http://www.lesechos.fr/idees-debats/cercle/cercle-130956-lentreprise-liberee-a-t-elle-un-avenir-1109689.php?__scoop_post=db90fe80-de9a-11e4-95d6-90b11c3ead14&__scoop_topic=990943#) 
 - ...
