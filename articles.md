@@ -10,4 +10,5 @@
  - [Sur la route des entreprises libérées #1 CHRONOFLEX](http://mylearningexpedition.com/2014/10/route-entreprises-liberees-1-chronoflex/)
 - Gore :
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
+- [Le mouvement des entreprises libérées](http://www.contrepoints.org/2015/04/30/206168-le-mouvement-des-entreprises-liberees)
 - ...
