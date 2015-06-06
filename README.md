@@ -145,6 +145,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### [Patagonia](http://www.patagonia.com/eu/frFR)
 - [Patagonia veut jeter les bases d'un capitalisme responsable](http://www.courrierinternational.com/article/2013/02/15/patagonia-veut-jeter-les-bases-d-un-capitalisme-responsable)
 
+### DoYouBuzz
+- localisation : Nantes, France
+- Personnalité : Ludovic SIMON
+- Article : [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
+
 ### [Probionov](http://www.probionov.com/fr)
 - [Fini l'autoritarisme, Bonjour l'intelligence collective !](https://drive.google.com/file/d/0B3ijWVPIoL0nalE5dFhvSkxBRDg/edit)
 
