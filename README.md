@@ -226,6 +226,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [Sociocratie](http://fr.wikipedia.org/wiki/Sociocratie)
  - [sociocratie.net ](http://www.sociocratie.net/Theorie)
 - [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
+- [idées / Bac à sable](idees.md)
 
 [:baggage_claim:coin technique](technique.md)
 
