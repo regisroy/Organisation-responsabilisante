@@ -230,9 +230,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
 - [idées / Bac à sable](idees.md)
 
-## Le boheur au travail  
+## Le bonheur au travail  
 - [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
-- ...
+- Livre
+ - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
 
 [:baggage_claim:coin technique](technique.md)
 
