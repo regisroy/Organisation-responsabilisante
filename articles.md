@@ -8,7 +8,7 @@
  - [Entreprises libérées… Alerte Générale !](http://liberation-entreprise.org/e%E2%80%8Bntreprises-liberees-alerte-generale/)
  - [Résumé du livre Liberté & Cie par Alexandre Gérard](https://docs.google.com/file/d/0B3ijWVPIoL0nM2Y5YjUxOTUtYTVlNC00NDBmLTgyYWUtMWYzODE1MmQ3ZThi/edit?pli=1)
  - [Sur la route des entreprises libérées #1 CHRONOFLEX](http://mylearningexpedition.com/2014/10/route-entreprises-liberees-1-chronoflex/)
- - [Compte-rendu conférence du 27 janvier 2015 à l’école MINES ParisTech #1](http://www.islean-consulting.fr/liberte-et-responsabilite-les-cles-de-la-prosperite-partie-1/)  [#2](http://www.islean-consulting.fr/liberte-et-responsabilite-bonheur-et-prosperite-partie-2/)
+ - [Compte-rendu conférence du 27 janvier 2015 à l’école MINES ParisTech #1](http://www.islean-consulting.fr/liberte-et-responsabilite-les-cles-de-la-prosperite-partie-1/)  et   [#2](http://www.islean-consulting.fr/liberte-et-responsabilite-bonheur-et-prosperite-partie-2/)
 - Gore :
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
 - [Le mouvement des entreprises libérées](http://www.contrepoints.org/2015/04/30/206168-le-mouvement-des-entreprises-liberees)
