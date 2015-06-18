@@ -76,6 +76,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - localisation(s) : Nantes, France
 - personnnalité(s) : Christophe Collignon
 - [Blog](https://imatechnologies.wordpress.com/)
+- vidéos
+ - [Web2day 2015](https://www.youtube.com/watch?v=QtMxxcKVx5Y)
 
 ### [AMI-API](http://www.toleriefine-metallerie.com)
  - activité(s) : tolerie fine (métallurgie)
