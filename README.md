@@ -216,6 +216,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  > 3 : Ce n'est pas que les gens n'aiment pas changer, c'est que les gens n'aiment pas qu'on les change.   
 
  > 4 : Que d'effort il faut faire pour ne pas agir.   
+ 
+ > 5 : Ils ne savaient pas que c'était impossible, alors ils l'ont fait. (Mark Twain)
 
 ## Controverses / Contre
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
