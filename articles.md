@@ -17,4 +17,6 @@
 - [L’audace de la banane - Patrick Gaillardin patron d'Officience](https://flipshot.co/2015/05/21/laudace-de-la-banane/)
 - [Entreprises libérées et innovation](http://www.lesechos.fr/idees-debats/cercle/cercle-133532-entreprises-liberees-et-innovation-1124101.php#xtor=CS1-33)
 - [Série d'articles de Pierre Nassif sur les entreprises libérées](http://www.contrepoints.org/author/pierre-nassif)
+- Jean-François Zobrist
+ - [l’entreprise libérée n’est pas une mode](http://www.lavoixdunord.fr/economie/jean-francois-zobrist-l-entreprise-liberee-n-est-ia0b0n2788362) (25/04/2015)
 - ...
