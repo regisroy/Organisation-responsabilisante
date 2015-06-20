@@ -200,6 +200,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Pr. Shoji Shiba
 - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
+- livres
+ - [Le management selon Shiba : Capter les signaux du changement pour une performance durable](http://www.amazon.fr/management-selon-Shiba-changement-performance/dp/221253843X/ref=asap_bc?ie=UTF8) 
 
 ## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
 - [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
