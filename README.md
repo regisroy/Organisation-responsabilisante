@@ -202,6 +202,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
 - livres
  - [Le management selon Shiba : Capter les signaux du changement pour une performance durable](http://www.amazon.fr/management-selon-Shiba-changement-performance/dp/221253843X/ref=asap_bc?ie=UTF8) 
+- [Breakthrough Management: Principles, Skills, and Patterns or Transformational Leadership](http://www.amazon.fr/Breakthrough-Management-Principles-Transformational-Leadership/dp/8190356437/ref=sr_1_1?s=english-books&ie=UTF8&qid=1434828616&sr=1-1&keywords=Shoji+Shiba)
 
 ## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
 - [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
