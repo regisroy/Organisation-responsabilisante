@@ -173,6 +173,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### [PocheEco](http://www.pocheco.com)
 - localisation : Nord, France
 - Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
+- livre : [Le Syndrome du Poisson Lune - Un manifeste d'anti management](http://www.pochecolaboutique.com/la-librairie/34-le-syndrome-du-poisson-lune-un-manifeste-d-anti-management.html)
 
 ### [Poterie Lorraine](http://www.poterie-lorraine.com)
 - localisation : Lorraine, France
