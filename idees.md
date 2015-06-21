@@ -1,9 +1,12 @@
 ### Idées / Bac à sable
 
 - Management par la confiance
-- Auto-gestion
+- Auto-gestion vs autonomie vs auto-organisation
+ - ... 
 - Lâcher-prise
 - Prise de décision par consentement
+ - sociocratie
+ - consensus systémique
 - Prise de décision par consensus
 - Election sans candidat
 - Auto-cooptation
