@@ -5,6 +5,7 @@
   - [Atelier de desintoxication de la langue de bois](https://www.youtube.com/watch?v=qYfx99MU3I8)
 - Documents / articles
  - [Desintoxication de la langue de bois](http://www.scoplepave.org/dictionnaire-de-la-langue-de-bois)
+ - [Atelier de désintoxication du langage](http://www.scoplepave.org/desintoxication-du-langage)
 
 ## TV
 - Livres
