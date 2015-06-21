@@ -1,0 +1,14 @@
+#Autodéfense intellectuelle
+
+## Désintoxication à la langue de bois
+- 
+
+## TV
+- [TV Lobotomie : La vérité scientifique sur les effets de la télévision](http://www.amazon.fr/TV-Lobotomie-v%C3%A9rit%C3%A9-scientifique-t%C3%A9l%C3%A9vision/dp/2290038059/ref=la_B004MONCPA_1_2?s=books&ie=UTF8&qid=1434901699&sr=1-2) de [Michel Desmurget](http://www.wikiwand.com/fr/Michel_Desmurget)
+
+
+## Livres
+- [Petit cours d’autodéfense intellectuelle](http://www.luxediteur.com/autodefenseintellectuelle) de [Normand Baillargeon](http://www.wikiwand.com/fr/Normand_Baillargeon)
+- ...
+
+
