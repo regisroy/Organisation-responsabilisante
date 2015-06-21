@@ -236,7 +236,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [Sociocratie](http://fr.wikipedia.org/wiki/Sociocratie)
  - [sociocratie.net ](http://www.sociocratie.net/Theorie)
 - [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
-- [idées / Bac à sable](idees.md)
+- [idées / Bac à sable](idees.md) ...
 
 ## Le bonheur au travail  
 - [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
