@@ -3,7 +3,7 @@
 ## Désintoxication à la langue de bois
 - vidéos
   - [Atelier de desintoxication de la langue de bois](https://www.youtube.com/watch?v=qYfx99MU3I8)
-- documents
+- documents / articles
  - [Desintoxication de la langue de bois](http://www.scoplepave.org/dictionnaire-de-la-langue-de-bois)
 
 ## TV
@@ -13,7 +13,9 @@
   - [TV Lobotomie : La vérité scientifique sur les effets de la télévision](http://youtu.be/NvMNf0Po1wY)
 
 ## En général
-- [Petit cours d’autodéfense intellectuelle](http://www.luxediteur.com/autodefenseintellectuelle) de [Normand Baillargeon](http://www.wikiwand.com/fr/Normand_Baillargeon)
-- ...
+- Livres
+ - [Petit cours d’autodéfense intellectuelle](http://www.luxediteur.com/autodefenseintellectuelle) de [Normand Baillargeon](http://www.wikiwand.com/fr/Normand_Baillargeon)
+- Documents / Articles
+ - ... 
 
 
