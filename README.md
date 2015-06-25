@@ -242,6 +242,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Le bonheur au travail  
 - [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
+- [Bonheur au travail : trois théories divergentes](https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/vie-quotidien-cadre/bonheur-au-travail-trois-theories-divergentes-2/)
 - Livre
  - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
 
