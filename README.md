@@ -87,14 +87,16 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
 
 ### [Poult](http://www.groupe-poult.com/fr)
- - activité : Biscuiterie
- - localisation : Montauban avec 4 sites de production en France
- - Personnalité : Carlos Verkaeren
- - [wikipedia](http://fr.wikipedia.org/wiki/Poult)
- - Vidéos
-   - [Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
-   - [L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
-   - [EDM 2013 - Poult (Lauréat)](https://www.youtube.com/watch?v=2OMLU8jutyM)
+- activité : Biscuiterie
+- localisation : Montauban avec 4 sites de production en France
+- Personnalité : Carlos Verkaeren
+- [wikipedia](http://fr.wikipedia.org/wiki/Poult)
+- Vidéos
+ - [Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
+ - [L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
+ - [EDM 2013 - Poult (Lauréat)](https://www.youtube.com/watch?v=2OMLU8jutyM)
+- Articles
+ - [Poult : le management démocratique existe](http://www.internetactu.net/2014/11/04/poult-le-management-democratique-existe) 
 
 ### Sécurité sociale belge
 - personnalité : Laurence Vanhée
