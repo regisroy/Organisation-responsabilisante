@@ -192,6 +192,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### [Bretagne Ateliers](http://www.bretagne-ateliers.com)
 - localisation : Bretagne, France
 - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
+ 
+### Harley Davidson
+- leader : Tom
+- livre : 
 
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
