@@ -250,9 +250,13 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
 - [idées / Bac à sable](idees.md) ...
 
-## Le bonheur au travail  
-- [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
-- [Bonheur au travail : trois théories divergentes](https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/vie-quotidien-cadre/bonheur-au-travail-trois-theories-divergentes-2/)
+## Le bonheur au travail
+- podcast
+ - [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
+- Articles
+ - [Bonheur au travail : trois théories divergentes](https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/vie-quotidien-cadre/bonheur-au-travail-trois-theories-divergentes-2/)
+- Vidéos
+ - [Conférence de André Comte-Sponville, Sens du Travail, Bonheur et Motivation](https://www.youtube.com/watch?v=TBuRaS1L6aI)
 - Livre
  - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
 
