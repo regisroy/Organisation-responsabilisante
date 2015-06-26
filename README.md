@@ -148,6 +148,12 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ### [Patagonia](http://www.patagonia.com/eu/frFR)
 - [Patagonia veut jeter les bases d'un capitalisme responsable](http://www.courrierinternational.com/article/2013/02/15/patagonia-veut-jeter-les-bases-d-un-capitalisme-responsable)
+ 
+### [Sea Smoke Cellars](http://www.seasmoke.com)
+- personnalité : [Bob Davids](http://www.bobdavids.com/biography)
+- localisation : Californie
+- Vidéos
+ - [TEDx](https://www.youtube.com/watch?v=UQrPVmcgJJk) 
 
 ### DoYouBuzz
 - localisation : Nantes, France
