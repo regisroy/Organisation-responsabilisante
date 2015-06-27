@@ -221,6 +221,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 
 ## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
 - [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
+- [Theorie Y et Théorie X](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 
 
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
