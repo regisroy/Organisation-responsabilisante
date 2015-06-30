@@ -69,7 +69,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - personnalité : Frédéric Lippi
 - video : [TEDx](https://www.youtube.com/watch?v=jwUskTfhbIk)
 - articles
-  - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html) 
+  - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html)
+  - [Frédéric Lippi : « Devenir une entreprise libérée demande du temps » ](http://www.focusrh.com/strategie-rh/organisation-et-conseil/a-la-une/frederic-lippi-devenir-une-entreprise-liberee-demande-du-temps.html#.VZGj0woe8QQ.twitter)
  
 ### [IMA Technologies](http://www.imatechnologies.fr)
 - activité(s) : Centre d'appel
