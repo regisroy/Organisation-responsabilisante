@@ -204,6 +204,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Kiabi (magasins)
 - Décathlon (magasins)
 - Ikea (Relation client - Martial Le Hiress)
+- Scarabée Biocoop : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
 
 ## Frédéric Laloux et "Reinventing Organizations"
 - [Reinventing Organization : site](http://www.reinventingorganizations.com)
