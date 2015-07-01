@@ -195,8 +195,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
  
 ### Harley Davidson
-- leader : Tom
-- livre : 
+- leader : Richard Teerlink (aussi connu comme Rich Teerlink)
+- livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
 
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
