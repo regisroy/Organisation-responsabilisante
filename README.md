@@ -197,6 +197,37 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ### Harley Davidson
 - leader : Richard Teerlink (aussi connu comme Rich Teerlink)
 - livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
+- localisation : Etats-Unis
+
+### Sun Hydraulics
+- personnalité : 
+- activité : matériel de précision dans les vannes hydrauliques
+- localisation : Etats-Unis, Floride
+
+### USAA
+- personnalité : 
+- activité : Assurances / mutuelles pour les militaires
+- localisation : Etats-Unis, Kansas
+
+### Vertex
+- personnalité : 
+- activité : logiciels de comptabilité
+- localisation : Etats-Unis
+
+### GSI / ADP-GSI
+- personnalité : Jacques Raiman
+- activité : externalisation paie / SI
+- localisation : France
+
+### QUAD Graphics
+- personnalité : 
+- activité : machines d'imprimerie
+- localisation : Etats-Unis
+
+### IDEO
+- personnalité : 
+- activité : design
+- localisation : Etats-Unis, Californie
 
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
