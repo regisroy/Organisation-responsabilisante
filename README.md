@@ -133,6 +133,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - personnalité : Liisa Joronen
 - localisation : Finlande
 - [article](http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html)
+- [Manager par la confiance](http://www.ladn.eu/actualites/manager-par-confiance,article,27082.html)
 
 ### [WL Gore and associates](http://www.gore.com/en_xx/aboutus/fastfacts/index.html)  -  [FR](http://www.gore-tex.fr)
 - activités : Textile
