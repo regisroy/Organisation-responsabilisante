@@ -19,4 +19,4 @@
 - [Série d'articles de Pierre Nassif sur les entreprises libérées](http://www.contrepoints.org/author/pierre-nassif)
 - Jean-François Zobrist
  - [l’entreprise libérée n’est pas une mode](http://www.lavoixdunord.fr/economie/jean-francois-zobrist-l-entreprise-liberee-n-est-ia0b0n2788362) (25/04/2015)
-- ...
+- [Why Employees Need to Be True to Themselves]()http://architects.dzone.com/articles/why-employees-need-be-true-0?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20zones%2Fagile%20%28Agile%20Zone%29
