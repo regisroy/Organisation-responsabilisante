@@ -295,5 +295,11 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Livre
  - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
 
+## Auto-gestion
+- [1200 salariés, pas de patron et aucune hiérarchie : les secrets de la coopérative Cecosesola au Venezuela](http://www.bastamag.net/1200-salaries-pas-de-patron-et-aucune-hierarchie-les-secrets-de-la-cooperative)
+- [Andalousie : des centaines d’ouvriers se réapproprient des terres livrées à la spéculation](http://www.bastamag.net/Andalousie-des-centaines-d)
+- [Marinaleda](https://fr.wikipedia.org/wiki/Marinaleda)
+- 
+
 [:baggage_claim:coin technique](technique.md)
 
