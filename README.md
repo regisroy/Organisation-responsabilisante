@@ -304,7 +304,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - video : [podersinpoder.tv](http://podersinpoder.tv/) 
 - [Andalousie : des centaines d’ouvriers se réapproprient des terres livrées à la spéculation](http://www.bastamag.net/Andalousie-des-centaines-d)
 - [Marinaleda](https://fr.wikipedia.org/wiki/Marinaleda)
-- 
+- ...
 
 [:baggage_claim:coin technique](technique.md)
 
