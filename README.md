@@ -295,6 +295,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Livre
  - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
 
+## Innovation
+- [Le leadership de l’incertitude : OSER se réinventer grâce à la crise](http://www.innovationmanageriale.com/concepts/le-leadership-de-lincertitude-oser-se-reinventer-grace-a-la-crise/)
+- [Pr. Shoji Shiba](Pr. Shoji Shiba)
+
 ## Auto-gestion
 - [1200 salariés, pas de patron et aucune hiérarchie : les secrets de la coopérative Cecosesola au Venezuela](http://www.bastamag.net/1200-salaries-pas-de-patron-et-aucune-hierarchie-les-secrets-de-la-cooperative)
  - video : [podersinpoder.tv](http://podersinpoder.tv/) 
