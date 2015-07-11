@@ -299,6 +299,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [Le leadership de l’incertitude : OSER se réinventer grâce à la crise](http://www.innovationmanageriale.com/concepts/le-leadership-de-lincertitude-oser-se-reinventer-grace-a-la-crise/)
 - [Pr. Shoji Shiba](#pr-shoji-shiba)
 
+## Leadership / Management
+- [How To Lead When You Aren't The Leader](http://www.forbes.com/sites/williamarruda/2015/07/08/how-to-lead-when-you-arent-the-leader/)
+
 ## Auto-gestion
 - [1200 salariés, pas de patron et aucune hiérarchie : les secrets de la coopérative Cecosesola au Venezuela](http://www.bastamag.net/1200-salaries-pas-de-patron-et-aucune-hierarchie-les-secrets-de-la-cooperative)
  - video : [podersinpoder.tv](http://podersinpoder.tv/) 
