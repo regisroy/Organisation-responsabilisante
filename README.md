@@ -302,6 +302,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ## Leadership / Management
 - [How To Lead When You Aren't The Leader](http://www.forbes.com/sites/williamarruda/2015/07/08/how-to-lead-when-you-arent-the-leader/)
 
+## Confiance
+- [Simon Sinek - "First why and then trust" ](https://www.youtube.com/watch?v=4VdO7LuoBzM)
+
 ## Auto-gestion
 - [1200 salariés, pas de patron et aucune hiérarchie : les secrets de la coopérative Cecosesola au Venezuela](http://www.bastamag.net/1200-salaries-pas-de-patron-et-aucune-hierarchie-les-secrets-de-la-cooperative)
  - video : [podersinpoder.tv](http://podersinpoder.tv/) 
