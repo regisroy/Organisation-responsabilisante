@@ -120,7 +120,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Vidéos
   - [Sew Usocome, l'entreprise libérée](https://www.youtube.com/watch?v=M_kr-YTuaR0)
 
-### SEMCO
+### [SEMCO](https://fr.wikipedia.org/wiki/Semco)
 - localisation : Brésil
 - Personnalité : Ricardo Semler
 - Vidéos
