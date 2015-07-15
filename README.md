@@ -127,6 +127,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
   - [TEDx](http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life)
 - Articles
   - [Ricardo Semler instaure la démocratie en entreprise](http://www.souriezvousmanagez.com/ricardo-semler-instaure-la-democratie-en-entreprise/)
+- Livre
+ - [Maverick](http://www.amazon.fr/Maverick-Success-Behind-Unusual-Workshop/dp/0712678867/ref=asap_bc?ie=UTF8) 
 
 ### [S.O.L](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
 - activités : nettoyage
