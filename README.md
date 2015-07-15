@@ -128,7 +128,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Articles
   - [Ricardo Semler instaure la démocratie en entreprise](http://www.souriezvousmanagez.com/ricardo-semler-instaure-la-democratie-en-entreprise/)
 - Livre
- - [Maverick](http://www.amazon.fr/Maverick-Success-Behind-Unusual-Workshop/dp/0712678867/ref=asap_bc?ie=UTF8) 
+ - [Maverick](http://www.amazon.fr/Maverick-Success-Behind-Unusual-Workshop/dp/0712678867/ref=asap_bc?ie=UTF8)  ([wikipedia](https://en.wikipedia.org/wiki/Maverick_(book)))
 
 ### [S.O.L](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
 - activités : nettoyage
