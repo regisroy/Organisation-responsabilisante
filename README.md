@@ -304,6 +304,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 ## Leadership / Management
 - [How To Lead When You Aren't The Leader](http://www.forbes.com/sites/williamarruda/2015/07/08/how-to-lead-when-you-arent-the-leader/)
 
+## Evaluation
+- [Mesurer la performance managériale à partir d’indicateurs : une chimère ? ](http://www.4tempsdumanagement.com/Mesurer-la-performance-manageriale-a-partir-d-indicateurs-une-chimere_a5902.html)
+
 ## Confiance
 - [Simon Sinek - "First why and then trust" ](https://www.youtube.com/watch?v=4VdO7LuoBzM)
 
