@@ -113,6 +113,8 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - articles : 
   - [Pays Bas : comment réinventer les soins de santé](http://www.metiseurope.eu/pays-bas-comment-reinventer-les-soins-de-sante_fr_70_art_29974.html)
   - [Inspiring people and companies to be unique](http://frankcalberg.blogspot.fr/2014/10/buurtzorg.html)
+- Vidéos :
+ - [RSA Spotlight: Jos de Blok on Organizational Structures](https://www.youtube.com/watch?t=95&v=BeOrNjwHw58) 
 
 ### [Sew Usocome](http://www.usocome.com)
 - localisation : Alsace
