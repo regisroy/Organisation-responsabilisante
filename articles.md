@@ -14,7 +14,8 @@
 - [Le mouvement des entreprises libérées](http://www.contrepoints.org/2015/04/30/206168-le-mouvement-des-entreprises-liberees)
 - introduction
  - [Huit questions sur l'entreprise libérée](http://www.lesechos.fr/idees-debats/cercle/cercle-130956-lentreprise-liberee-a-t-elle-un-avenir-1109689.php?__scoop_post=db90fe80-de9a-11e4-95d6-90b11c3ead14&__scoop_topic=990943#) 
-- [L’audace de la banane - Patrick Gaillardin patron d'Officience](https://flipshot.co/2015/05/21/laudace-de-la-banane/)
+- Officience
+ - [L’audace de la banane - Patrick Gaillardin patron d'Officience](https://flipshot.co/2015/05/21/laudace-de-la-banane/)
 - [Entreprises libérées et innovation](http://www.lesechos.fr/idees-debats/cercle/cercle-133532-entreprises-liberees-et-innovation-1124101.php#xtor=CS1-33)
 - [Série d'articles de Pierre Nassif sur les entreprises libérées](http://www.contrepoints.org/author/pierre-nassif)
 - Jean-François Zobrist
