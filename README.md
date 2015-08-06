@@ -278,6 +278,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
 - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
 - [La part d'ombre de l'entreprise "libérée"](http://www.e-rh.org/index.php/emploi/blog-organisation/194-entreprise-liberee-la-fausse-idee-neuve)
+- [L’entreprise libérée pervertie ?](http://www.jobsferic.fr/L-entreprise-liberee-pervertie-.html)
 
 ## Autour des "Entreprises Libérées", "Teal Organizations"
 - [Holacratie](http://fr.wikipedia.org/wiki/Holacratie)
