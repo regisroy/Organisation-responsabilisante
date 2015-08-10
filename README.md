@@ -277,11 +277,13 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  
  > 5 : Ils ne savaient pas que c'était impossible, alors ils l'ont fait. (Mark Twain)
 
+
 ## Controverses / Contre
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
 - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
 - [La part d'ombre de l'entreprise "libérée"](http://www.e-rh.org/index.php/emploi/blog-organisation/194-entreprise-liberee-la-fausse-idee-neuve)
 - [L’entreprise libérée pervertie ?](http://www.jobsferic.fr/L-entreprise-liberee-pervertie-.html)
+
 
 ## Autour des "Entreprises Libérées", "Teal Organizations"
 - [Holacratie](http://fr.wikipedia.org/wiki/Holacratie)
@@ -290,6 +292,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [sociocratie.net ](http://www.sociocratie.net/Theorie)
 - [Sociodynamique](http://fr.wikipedia.org/wiki/Sociodynamique)
 - [idées / Bac à sable](idees.md) ...
+
 
 ## Le bonheur au travail
 - podcast
@@ -300,20 +303,25 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Vidéos
  - [Conférence de André Comte-Sponville, Sens du Travail, Bonheur et Motivation](https://www.youtube.com/watch?v=TBuRaS1L6aI)
 - Livre
- - [Pour en finir avec le bonheur](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
+ - [Pour en finir avec le bonheur d'André Guigot](http://www.lalibrairie.com/tous-les-livres/pour-en-finir-avec-le-bonheur-guigot-andre-9782227487130.html) 
+ - [Comedie humaine du travail. de la deshumanisation taylorienne a la sur-humanisation manageriale de Danièle Linhardt](http://www.lalibrairie.com/tous-les-livres/comedie-humaine-du-travail--de-la-deshumanisation-taylorienne-a-la-sur-humanisation-manageriale-linhart-daniele-9782749246321.html)
 
 ## Innovation
 - [Le leadership de l’incertitude : OSER se réinventer grâce à la crise](http://www.innovationmanageriale.com/concepts/le-leadership-de-lincertitude-oser-se-reinventer-grace-a-la-crise/)
 - [Pr. Shoji Shiba](#pr-shoji-shiba)
 
+
 ## Leadership / Management
 - [How To Lead When You Aren't The Leader](http://www.forbes.com/sites/williamarruda/2015/07/08/how-to-lead-when-you-arent-the-leader/)
+
 
 ## Evaluation
 - [Mesurer la performance managériale à partir d’indicateurs : une chimère ? ](http://www.4tempsdumanagement.com/Mesurer-la-performance-manageriale-a-partir-d-indicateurs-une-chimere_a5902.html)
 
+
 ## Confiance
 - [Simon Sinek - "First why and then trust" ](https://www.youtube.com/watch?v=4VdO7LuoBzM)
+
 
 ## Auto-gestion
 - [1200 salariés, pas de patron et aucune hiérarchie : les secrets de la coopérative Cecosesola au Venezuela](http://www.bastamag.net/1200-salaries-pas-de-patron-et-aucune-hierarchie-les-secrets-de-la-cooperative)
