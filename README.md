@@ -296,6 +296,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [France-culture : La recherche du bonheur nous rend-elle pessimistes ?](http://www.franceculture.fr/emission-du-grain-a-moudre-la-recherche-du-bonheur-nous-rend-elle-pessimistes-2014-10-22)
 - Articles
  - [Bonheur au travail : trois théories divergentes](https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/vie-quotidien-cadre/bonheur-au-travail-trois-theories-divergentes-2/)
+ - [Les effets destructeurs du management à la cool](http://bibliobs.nouvelobs.com/idees/20150808.OBS3895/les-effets-destructeurs-du-management-a-la-cool.html#)
 - Vidéos
  - [Conférence de André Comte-Sponville, Sens du Travail, Bonheur et Motivation](https://www.youtube.com/watch?v=TBuRaS1L6aI)
 - Livre
