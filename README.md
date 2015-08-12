@@ -241,6 +241,9 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - personnalité : 
 - activité : design
 - localisation : Etats-Unis, Californie
+ 
+### Valve Softwares
+- [Manuel d'accueil](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
