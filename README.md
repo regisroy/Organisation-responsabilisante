@@ -149,6 +149,7 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
 
 ### Morning Star
+- personnalité : Chris Rufer
 - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
 - Vidéo
   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
