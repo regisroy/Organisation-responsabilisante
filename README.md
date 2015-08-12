@@ -155,8 +155,10 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - Articles
  - [One Company's Audacious
 Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-buchanan/morning-star.html)
+ - [If Self-Management Is Such a Great Idea, Why Aren't More Companies Doing It?](http://www.forbes.com/sites/drucker/2012/09/25/self-management-a-great-idea/)
 - Vidéo
   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
+  - [Chris Rufer - Definition of Self-Management](https://www.youtube.com/watch?v=HXGtBRqVtMc)
 
 ### [Patagonia](http://www.patagonia.com/eu/frFR)
 - [Patagonia veut jeter les bases d'un capitalisme responsable](http://www.courrierinternational.com/article/2013/02/15/patagonia-veut-jeter-les-bases-d-un-capitalisme-responsable)
