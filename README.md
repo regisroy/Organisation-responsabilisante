@@ -152,6 +152,9 @@ Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/li
 - personnalité : Chris Rufer
 - [wikipedia](http://en.wikipedia.org/wiki/The_Morning_Star_Company)
 - [Morning Star Self-Management Institute](http://www.self-managementinstitute.org/)
+- Articles
+ - [One Company's Audacious
+Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-buchanan/morning-star.html)
 - Vidéo
   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
 
