@@ -51,6 +51,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalit√©s int√
 - ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Tom_Peters)  |  [FR](http://fr.wikipedia.org/wiki/Tom_Peters)
 - :books: 
  -  
+
 ## Chris Rufer
 - Patron de l'entreprise [Morning Star](https://github.com/regisroy/Management-Y/blob/master/README.md#morning-star)
 
