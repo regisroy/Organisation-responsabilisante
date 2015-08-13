@@ -42,7 +42,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 ## Michel Munzenhuter
 
 ## Vineet Nayar
-- ancien patron de la société HCL
+- ancien patron de la société [HCL](README.md#hcl)
 - livre : Les employés d'abord, les clients ensuite
 - ![W](wikipedia.png) [EN](http://en.wikipedia.org/wiki/Vineet_Nayar)  |   [FR](http://fr.wikipedia.org/wiki/Vineet_Nayar)
 
