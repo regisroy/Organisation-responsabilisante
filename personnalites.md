@@ -14,7 +14,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
 - Auteur, consultant, professeur, père de la sociodynamique
 - ![W](wikipedia.png) 
 - :books:
- - 
+ - ...
 
 ## Isaac Getz
 - Professeur à  l'école de management ESCP Europe
@@ -53,7 +53,7 @@ Cette page a pour objectif d'offrir des informations sur des personnalités int�
  -  
 
 ## Chris Rufer
-- Patron de l'entreprise [Morning Star](https://github.com/regisroy/Management-Y/blob/master/README.md#morning-star)
+- Patron de l'entreprise [Morning Star](README.md#morning-star)
 
 ## Shoji Shiba
 - ![W](wikipedia.png)  
