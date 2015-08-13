@@ -4,6 +4,7 @@
 - [Reinventing Organization : les différents paradigmes des organisations](http://awperformances.com/project/reinventing-organization-les-differents-paradigmes-des-organisations)
 - [Réponse à 8 questions clés sur les entreprises libérées et autres organisations émergentes](http://brigittequinton.blogspot.fr/2015/05/reponse-8-questions-cles-sur-les.html)
 - [3 pistes concrètes pour libérer vos équipes et, votre posture !](http://reussitepartagee.com/wp/manager-ou-leader-3-pistes-posture-pour-liberer-vos-equipes-solutions)
+- [Les entreprises libérées : Une mythologie de contestation : explication](http://www.4tempsdumanagement.com/4-44-Les-entreprises-liberees-Une-mythologie-de-contestation_a5917.html)
 - Chrono-Flex / innov-on
  - [Entreprises libérées… Alerte Générale !](http://liberation-entreprise.org/e%E2%80%8Bntreprises-liberees-alerte-generale/)
  - [Résumé du livre Liberté & Cie par Alexandre Gérard](https://docs.google.com/file/d/0B3ijWVPIoL0nM2Y5YjUxOTUtYTVlNC00NDBmLTgyYWUtMWYzODE1MmQ3ZThi/edit?pli=1)
