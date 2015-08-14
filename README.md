@@ -191,6 +191,8 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ### [Agesys](http://www.agesys.fr)
 - localisation : Noyon, France
 - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
+- Articles
+ - [Learning expedition de MOM21 chez Agesys](http://www.mom21.org/learning-expedition-de-mom21-chez-agesys/) 
  
 ### [PocheEco](http://www.pocheco.com)
 - localisation : Nord, France
