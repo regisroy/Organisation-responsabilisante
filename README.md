@@ -247,6 +247,11 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ### Valve Softwares
 - [Manuel d'accueil](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
+### [Kronos](http://www.kronos.fr)
+- activité : conseil en organisation
+- personnalité : 
+- Articles : [Une entreprise qui se libère …](http://blog.kronos.fr/entreprise-liberee/)
+
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
 - Auchan (magasins)
