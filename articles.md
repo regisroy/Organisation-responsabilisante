@@ -24,3 +24,5 @@
 - [Why Employees Need to Be True to Themselves](http://architects.dzone.com/articles/why-employees-need-be-true-0)
 - EverContact
  - [Chez Evercontact, les salariés peuvent prendre des congés illimités](http://www.la-croix.com/Actualite/France/Chez-Evercontact-les-salaries-peuvent-prendre-des-conges-illimites-2015-08-03-1340878)
+- Livret d'accueil:
+ - [Livret d’accueil des employés : 3 exemples réussis pour intégrer autrement](http://www.blog-emploi.com/livret-accueil-employes/) 
