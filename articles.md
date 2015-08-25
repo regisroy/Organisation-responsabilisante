@@ -27,5 +27,4 @@
 - Livret d'accueil:
  - [Livret d’accueil des employés : 3 exemples réussis pour intégrer autrement](http://www.blog-emploi.com/livret-accueil-employes/) 
 - Sogilis
- - [Sogilis joue l'autonomie pour conserver les meilleurs développeurs
-En savoir plus sur http://www.lesechos.fr/journal20150825/lec2_pme_et_regions/021224240771-sogilis-joue-lautonomie-pour-conserver-les-meilleurs-developpeurs-1147525.php?Pjrgm1G3ATbVfmik.99](http://www.lesechos.fr/journal20150825/lec2_pme_et_regions/021224240771-sogilis-joue-lautonomie-pour-conserver-les-meilleurs-developpeurs-1147525.php#) 
+ - [Sogilis joue l'autonomie pour conserver les meilleurs développeurs](http://www.lesechos.fr/journal20150825/lec2_pme_et_regions/021224240771-sogilis-joue-lautonomie-pour-conserver-les-meilleurs-developpeurs-1147525.php#) 
