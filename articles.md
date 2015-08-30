@@ -21,6 +21,7 @@
 - [Série d'articles de Pierre Nassif sur les entreprises libérées](http://www.contrepoints.org/author/pierre-nassif)
 - Jean-François Zobrist
  - [l’entreprise libérée n’est pas une mode](http://www.lavoixdunord.fr/economie/jean-francois-zobrist-l-entreprise-liberee-n-est-ia0b0n2788362) (25/04/2015)
+ - [« La confiance rapporte plus que le contrôle » : Jean-François Zobrist à l'université du CECA ](http://www.aqui.fr/societes/laquo-nbsp-la-confiance-rapporte-plus-que-le-controle-nbsp-raquo-nbsp-jean-francois-zobrist-a-l-universite-du-ceca,12290.html)
 - [Why Employees Need to Be True to Themselves](http://architects.dzone.com/articles/why-employees-need-be-true-0)
 - EverContact
  - [Chez Evercontact, les salariés peuvent prendre des congés illimités](http://www.la-croix.com/Actualite/France/Chez-Evercontact-les-salaries-peuvent-prendre-des-conges-illimites-2015-08-03-1340878)
