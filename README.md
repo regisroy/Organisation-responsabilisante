@@ -320,6 +320,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Articles
  - [Bonheur au travail : trois théories divergentes](https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/vie-quotidien-cadre/bonheur-au-travail-trois-theories-divergentes-2/)
  - [Les effets destructeurs du management à la cool](http://bibliobs.nouvelobs.com/idees/20150808.OBS3895/les-effets-destructeurs-du-management-a-la-cool.html#)
+ - [Université Hommes-Entreprises : le bonheur, levier de productivité révolutionnaire](http://objectifaquitaine.latribune.fr/innovation/2015-08-28/universite-hommes-entreprises-le-bonheur-levier-de-productivite-revolutionnaire.html)
 - Vidéos
  - [Conférence de André Comte-Sponville, Sens du Travail, Bonheur et Motivation](https://www.youtube.com/watch?v=TBuRaS1L6aI)
 - Livre
