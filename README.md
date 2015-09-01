@@ -297,6 +297,9 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  
  > 5 : Ils ne savaient pas que c'était impossible, alors ils l'ont fait. (Mark Twain)
 
+## Inspirations
+- Proginov, Nantes
+ - [Prix de l'Entrepreneur. Proginov, le management par la confiance](http://www.entreprises.ouest-france.fr/article/prix-lentrepreneur-proginov-management-par-confiance-video-26-08-2015-223995)
 
 ## Controverses / Contre
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
