@@ -278,6 +278,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [Le management selon Shiba : Capter les signaux du changement pour une performance durable](http://www.amazon.fr/management-selon-Shiba-changement-performance/dp/221253843X/ref=asap_bc?ie=UTF8) 
 - [Breakthrough Management: Principles, Skills, and Patterns or Transformational Leadership](http://www.amazon.fr/Breakthrough-Management-Principles-Transformational-Leadership/dp/8190356437/ref=sr_1_1?s=english-books&ie=UTF8&qid=1434828616&sr=1-1&keywords=Shoji+Shiba)
 
+
 ## Douglas Mc Gregor (Les entreprises X et les entreprises Y)
 - [wikipedia](http://fr.wikipedia.org/wiki/Douglas_McGregor)
 - [Theorie Y et Théorie X](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
@@ -285,6 +286,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 ## [Tom Peters](http://fr.wikipedia.org/wiki/Tom_Peters) [EN](http://en.wikipedia.org/wiki/Tom_Peters)
 - livre : [Le prix de l'excellence](http://www.amazon.fr/prix-lexcellence-principes-fondamentaux-performance/dp/2100583026/ref=la_B004N4W1HE_1_2?s=books&ie=UTF8&qid=1432414728&sr=1-2)
+
 
 ## Quelques citations
  > 1 : Seul on va plus vite, Ensemble on va plus loin.   (Proverbe africain)
@@ -297,6 +299,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  
  > 5 : Ils ne savaient pas que c'était impossible, alors ils l'ont fait. (Mark Twain)
 
+
 ## Inspirations
 - Proginov, Nantes
  - [Prix de l'Entrepreneur. Proginov, le management par la confiance](http://www.entreprises.ouest-france.fr/article/prix-lentrepreneur-proginov-management-par-confiance-video-26-08-2015-223995)
@@ -306,9 +309,10 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [L’entreprise ferme tous les 7 ans !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 - [Chris Ashworth - Figure 53 - Les salariés fixent eux même leur salaire](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686)
 - Kwaga
- - [congés illimités](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686)
+ - [congés illimités](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) ou [ici](http://www.coindusalarie.fr/mes-conges/illimites)
 - 37signals
  - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
+
 
 ## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
