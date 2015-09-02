@@ -305,7 +305,11 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - [Stefan Sagmeister](https://fr.wikipedia.org/wiki/Stefan_Sagmeister)
  - [L’entreprise ferme tous les 7 ans !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 - [Chris Ashworth - Figure 53 - Les salariés fixent eux même leur salaire](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686)
-- [Kwaga - congés illimités](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686)
+- Kwaga
+ - [congés illimités](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686)
+- 37signals
+ - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
+
 ## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
 - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
