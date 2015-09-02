@@ -30,7 +30,9 @@
 - [Association MOM21](http://www.mom21.org)
 - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
 - [... Et d'autres articles](articles.md)
- 
+- [5 nouvelles bonnes raisons pour libérer les énergies dans son entreprise](http://www.resultence-coaching.com/5-nouvelles-bonnes-raisons-pour-liberer-les-energies-dans-son-entreprise/) 
+
+
 ## Des entreprises libérées
 
 ### [Sogilis](http://sogilis.com/)
