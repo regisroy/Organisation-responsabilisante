@@ -300,8 +300,10 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ## Inspirations
 - Proginov, Nantes
  - [Prix de l'Entrepreneur. Proginov, le management par la confiance](http://www.entreprises.ouest-france.fr/article/prix-lentrepreneur-proginov-management-par-confiance-video-26-08-2015-223995)
+- Proselis, Nantes
+ - [Proselis. L'entreprise où tout le monde décide](http://www.entreprises.ouest-france.fr/article/proselis-lentreprise-tout-monde-decide-26-08-2015-223896) 
 
-## Controverses / Contre
+## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
 - [« L’entreprise libérée » : quoi de neuf ?](http://www.regard-hubertlandier.fr/lentreprise-liberee-quoi-de-neuf) + [Vidéo à partir de 5m30](https://www.youtube.com/watch?v=j6Yv_b7NTqI)
 - [La part d'ombre de l'entreprise "libérée"](http://www.e-rh.org/index.php/emploi/blog-organisation/194-entreprise-liberee-la-fausse-idee-neuve)
