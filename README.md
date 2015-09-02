@@ -302,6 +302,8 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [Prix de l'Entrepreneur. Proginov, le management par la confiance](http://www.entreprises.ouest-france.fr/article/prix-lentrepreneur-proginov-management-par-confiance-video-26-08-2015-223995)
 - Proselis, Nantes
  - [Proselis. L'entreprise où tout le monde décide](http://www.entreprises.ouest-france.fr/article/proselis-lentreprise-tout-monde-decide-26-08-2015-223896) 
+- Stefan Sagmeister
+ - [L’entreprise ferme tous les 7 ans !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 
 ## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
