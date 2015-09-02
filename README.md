@@ -29,8 +29,8 @@
 - [Aiseco, entreprise auto-managée par ses salariés](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
 - [Association MOM21](http://www.mom21.org)
 - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
-- [... Et d'autres articles](articles.md)
 - [5 nouvelles bonnes raisons pour libérer les énergies dans son entreprise](http://www.resultence-coaching.com/5-nouvelles-bonnes-raisons-pour-liberer-les-energies-dans-son-entreprise/) 
+- [... Et d'autres articles](articles.md)
 
 
 ## Des entreprises libérées
