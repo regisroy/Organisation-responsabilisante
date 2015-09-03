@@ -314,7 +314,11 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [congés illimités](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) ou [ici](http://www.coindusalarie.fr/mes-conges/illimites)
 - 37signals
  - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
-
+- Maisons Hanau, Alsace
+- Evaneos, ile-de-France
+- Michelin : [video](https://www.youtube.com/watch?v=ztsGX4YNkQ4)
+- DoYouBuzz, Nantes
+- 
 
 ## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
