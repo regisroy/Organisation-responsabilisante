@@ -316,7 +316,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 - Maisons Hanau, Alsace
 - Evaneos, ile-de-France
-- Michelin : [video](https://www.youtube.com/watch?v=ztsGX4YNkQ4)
+- Michelin : [ici](https://www.youtube.com/watch?v=ztsGX4YNkQ4), [ici](https://www.youtube.com/watch?v=vQIabPEgN3U)
 - DoYouBuzz, Nantes
 - 
 
