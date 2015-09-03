@@ -5,7 +5,7 @@
 > Il s'agit d'une entreprise dont la majorité de salariées sont **complètement** libres et responsables d'entreprendre toute action qu'eux mêmes -pas leurs chefs ou les procédures- décident comme les meilleures pour la vision de leur entreprise.  
   
 ### Définition de Jean-François ZOBRIST
-> Une entreprise ou personne n'a d'autre contrainte quel celle du client
+> Une entreprise où personne n'a d'autre contrainte quel celle du client
 
 ## Des Livres
 - [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) de Isaac GETZ et Brian M. CARNEY  ( [site](http://liberteetcie.com) )
