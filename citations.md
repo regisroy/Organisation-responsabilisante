@@ -2,7 +2,6 @@
 
 > "Mal nommer les choses, c'est ajouter au malheur du monde."
 >> <cite>Albert Camus<cite>
-<br/>
 
 
 > Dis-moi et j’oublierai  
