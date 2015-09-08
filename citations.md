@@ -1,7 +1,7 @@
 # Quelques citations
 
-> "Mal nommer les choses, c'est ajouter au malheur du monde." 
-> <cite>Albert Camus<cite>\s\s
+> "Mal nommer les choses, c'est ajouter au malheur du monde." \s\s
+> <cite>Albert Camus<cite>
 
 
 > Dis-moi et j’oublierai  
