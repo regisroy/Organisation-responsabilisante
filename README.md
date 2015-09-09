@@ -180,7 +180,10 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Article : [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
 
 ### [Probionov](http://www.probionov.com/fr)
+- localisation : Cantal, France
+- Personnalité : Stanislas Desjonqueres
 - [Fini l'autoritarisme, Bonjour l'intelligence collective !](https://drive.google.com/file/d/0B3ijWVPIoL0nalE5dFhvSkxBRDg/edit)
+- [Autonomie des salariés et libération du travail dans l'entreprise - Stanislas Desjonqueres](https://www.youtube.com/watch?v=xfBIHdl-75s)
 
 ### [HCL](http://www.hcltech.com)
 - personnalité : [Vineet Nayar](http://vineetnayar.com)
