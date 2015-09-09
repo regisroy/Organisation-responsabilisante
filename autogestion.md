@@ -4,4 +4,5 @@
 - blog Chris Rofer
 - Reinventing Organizations (Frédéric Laloux)
 - La belle histoire de FAVI
+- ...
 - 
