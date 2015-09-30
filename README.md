@@ -174,10 +174,11 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Vidéos
  - [TEDx](https://www.youtube.com/watch?v=UQrPVmcgJJk) 
 
-### DoYouBuzz
-- localisation : Nantes, France
-- Personnalité : Ludovic SIMON
-- Article : [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
+### [Orpheus Chamber Orchestra](http://orpheusnyc.org/about-orpheus/history/)
+- localiastion : New York, USA
+- fondateur : Julian Fifer
+- particularité : un des meilleurs orchestre de chambre sans chef d'orchestre
+
 
 ### [Probionov](http://www.probionov.com/fr)
 - localisation : Cantal, France
@@ -192,16 +193,25 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
   - [La pyramide inversée de monsieur Nayar](http://www.paristechreview.com/2011/06/02/pyramide-inversee-nayar)
 - livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
 
+
+### DoYouBuzz
+- localisation : Nantes, France
+- Personnalité : Ludovic SIMON
+- Article : [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
+
+
 ### [Davidson Consulting](http://www.davidson.fr)
 - activié(s) : Audit, Consulting informatique
 - localiation(s) : France
+
 
 ### [Agesys](http://www.agesys.fr)
 - localisation : Noyon, France
 - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
 - Articles
  - [Learning expedition de MOM21 chez Agesys](http://www.mom21.org/learning-expedition-de-mom21-chez-agesys/) 
- 
+
+
 ### [PocheEco](http://www.pocheco.com)
 - localisation : Nord, France
 - activité : fabrication d'écoveloppes, pochettes et sacs à soufflets en papier
@@ -209,56 +219,68 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
 - livre : [Le Syndrome du Poisson Lune - Un manifeste d'anti management](http://www.pochecolaboutique.com/la-librairie/34-le-syndrome-du-poisson-lune-un-manifeste-d-anti-management.html) d'Emmanuel Druon
 
+
 ### [Poterie Lorraine](http://www.poterie-lorraine.com)
 - localisation : Lorraine, France
 - Article : [J'ai redressé mon entreprise en la libérant](http://www.lejournaldesentreprises.com/editions/54/industrie/biens-de-consommation/j-ai-redresse-mon-entreprise-en-la-liberant-06-03-2015-250290.php)
 
+
 ### [Bretagne Ateliers](http://www.bretagne-ateliers.com)
 - localisation : Bretagne, France
 - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
- 
+
+
 ### Harley Davidson
 - leader : Richard Teerlink (aussi connu comme Rich Teerlink)
 - livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
 - localisation : Etats-Unis
+
 
 ### Sun Hydraulics
 - personnalité : 
 - activité : matériel de précision dans les vannes hydrauliques
 - localisation : Etats-Unis, Floride
 
+
 ### USAA
 - personnalité : 
 - activité : Assurances / mutuelles pour les militaires
 - localisation : Etats-Unis, Kansas
+
 
 ### Vertex
 - personnalité : 
 - activité : logiciels de comptabilité
 - localisation : Etats-Unis
 
+
 ### GSI / ADP-GSI
 - personnalité : Jacques Raiman
 - activité : externalisation paie / SI
 - localisation : France
+
 
 ### QUAD Graphics
 - personnalité : 
 - activité : machines d'imprimerie
 - localisation : Etats-Unis
 
+
 ### IDEO
 - personnalité : 
 - activité : design
 - localisation : Etats-Unis, Californie
- 
+
+
 ### Valve Softwares
 - [Manuel d'accueil](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
 
 ### [Kronos](http://www.kronos.fr)
 - activité : conseil en organisation
 - personnalité : 
 - Articles : [Une entreprise qui se libère …](http://blog.kronos.fr/entreprise-liberee/)
+
 
 ### Entreprises se lançant dans la libération
 - Michelin (usines)
@@ -268,14 +290,17 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Ikea (Relation client - Martial Le Hiress)
 - Scarabée Biocoop : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
 
+
 ## Frédéric Laloux et "Reinventing Organizations"
 - [Reinventing Organization : site](http://www.reinventingorganizations.com)
 - [Reinventing Organization : les différents paradigmes des organisations](http://awperformances.com/project/reinventing-organization-les-differents-paradigmes-des-organisations/)
 - Videos
   - Frédéric Laloux [FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [EN](https://www.youtube.com/watch?v=gcS04BI2sbk])  
 
+
 ## Carte des entreprise encours de "libération" ou "libérées"
 - [carte des entreprises libérées en France](https://www.google.com/maps/d/u/0/viewer?mid=zugIM9hNQJjs.kZa9RHqYjayc)
+
 
 ## Pr. Shoji Shiba
 - [wikipedia](http://fr.wikipedia.org/wiki/Shoji_Shiba)
@@ -321,7 +346,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Evaneos, ile-de-France
 - Michelin : [ici](https://www.youtube.com/watch?v=ztsGX4YNkQ4), [ici](https://www.youtube.com/watch?v=vQIabPEgN3U)
 - DoYouBuzz, Nantes
-- 
+
 
 ## Controverses / Critiques
 - [L’entreprise libérée, entre communication et imposture](http://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture) -> [une réponse de Brigitte Quinton](http://brigittequinton.blogspot.fr/2015/05/reponse-aux-objections-sur-lentreprise.html)
