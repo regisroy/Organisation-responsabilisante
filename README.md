@@ -42,6 +42,7 @@
 - article : [Un exemple d’entreprise libérée : Sogilis](http://www.contrepoints.org/2015/05/28/209048-un-exemple-dentreprise-liberee-sogilis)
 - vidéo : [Présentation de Christophe Baillon (Sogilis) - Press Club de France ](https://www.youtube.com/watch?v=QVf5MVV4XZQ)
 
+
 ### [FAVI](http://www.favi.com)
 - activité(s) : Fonderie
 - localisation : Hallencourt en picardie, France
@@ -57,7 +58,8 @@
 - vidéos
  - [Conférence MOM21](https://www.youtube.com/watch?v=KXIy_qlmq1Q&index=10)
  - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
-  
+
+
 ### [Innov-on / Chrono-Flex](http://www.chronoflex.fr) : France
 - activité(s) : Dépannage de flexibles hydraulique
 - localisation : Nantes avec de mutiples agences en France
@@ -68,6 +70,7 @@
   - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
   - [Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
 
+
 ### [Lippi](http://www.lippi.fr/fr/) : France
 - activité(s) : Fabrication de clôtures et grillages
 - localisation : France
@@ -76,7 +79,8 @@
 - articles
   - [Lippi, les recettes de l'alter management](http://lentreprise.lexpress.fr/rh-management/lippi-les-recettes-de-l-alter-management_1516340.html)
   - [Frédéric Lippi : « Devenir une entreprise libérée demande du temps » ](http://www.focusrh.com/strategie-rh/organisation-et-conseil/a-la-une/frederic-lippi-devenir-une-entreprise-liberee-demande-du-temps.html#.VZGj0woe8QQ.twitter)
- 
+
+
 ### [IMA Technologies](http://www.imatechnologies.fr)
 - activité(s) : Centre d'appel
 - localisation(s) : Nantes, France
@@ -85,12 +89,14 @@
 - vidéos
  - [Web2day 2015](https://www.youtube.com/watch?v=QtMxxcKVx5Y)
 
+
 ### [AMI-API](http://www.toleriefine-metallerie.com)
  - activité(s) : tolerie fine (métallurgie)
  - localisation : Rennes, France
  - Article : [Notre Management Ethique](http://www.toleriefine-metallerie.com/management/notre-management.php)
  - vidéos
    - [01 ENTREPRISE LIBÉRÉE UN AUTRE STYLE DE MANAGEMENT](https://www.youtube.com/watch?v=J70qXknqkTg)
+
 
 ### [Poult](http://www.groupe-poult.com/fr)
 - activité : Biscuiterie
@@ -104,13 +110,15 @@
 - Articles
  - [Poult : le management démocratique existe](http://www.internetactu.net/2014/11/04/poult-le-management-democratique-existe) 
 
+
 ### Sécurité sociale belge
 - personnalité : Laurence Vanhée
 - localisation : Belgique
 - Vidéos
    - [Le bonheur au travail](https://www.youtube.com/watch?v=wGXUtj6pGEo)
    - [TEDx](https://www.youtube.com/watch?v=D2IZG-9TL2E)
- 
+
+
 ### [Buurtzorg](http://www.buurtzorgnederland.com)
 - activités : Medical
 - localisation : Pays-bas
@@ -122,11 +130,13 @@
  - [RSA Spotlight: Jos de Blok on Organizational Structures](https://www.youtube.com/watch?t=95&v=BeOrNjwHw58)
  - [Healthcare: humanity above bureaucracy | Jos de Blok | TEDxGeneva ](https://www.youtube.com/watch?v=SSoWtXvqsgg)
 
+
 ### [Sew Usocome](http://www.usocome.com)
 - localisation : Alsace
 - Personnalité : Michel Munzenhuter
 - Vidéos
   - [Sew Usocome, l'entreprise libérée](https://www.youtube.com/watch?v=M_kr-YTuaR0)
+
 
 ### [SEMCO](https://fr.wikipedia.org/wiki/Semco)
 - localisation : Brésil
@@ -138,12 +148,14 @@
 - Livre
  - [Maverick](http://www.amazon.fr/Maverick-Success-Behind-Unusual-Workshop/dp/0712678867/ref=asap_bc?ie=UTF8)  ([wikipedia](https://en.wikipedia.org/wiki/Maverick_(book)))
 
+
 ### [S.O.L](http://www.sol.fi/en/the-company/about-us/sols-roots.html)
 - activités : nettoyage
 - personnalité : Liisa Joronen
 - localisation : Finlande
 - [article](http://www.cadremploi.fr/editorial/formation/management-developpement-personnel/detail/article/sol-l-entreprise-qui-rend-visibles-ses-femmes-de-menage.html)
 - [Manager par la confiance](http://www.ladn.eu/actualites/manager-par-confiance,article,27082.html)
+
 
 ### [WL Gore and associates](http://www.gore.com/en_xx/aboutus/fastfacts/index.html)  -  [FR](http://www.gore-tex.fr)
 - activités : Textile
@@ -152,6 +164,7 @@
  - [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
 - :newspaper:
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
+
 
 ### [Morning Star](http://www.morningstarco.com/)
 - personnalité : Chris Rufer
@@ -165,20 +178,26 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
   - [Chris Rufer - Definition of Self-Management](https://www.youtube.com/watch?v=HXGtBRqVtMc)
 
+
 ### [Patagonia](http://www.patagonia.com/eu/frFR)
 - [Patagonia veut jeter les bases d'un capitalisme responsable](http://www.courrierinternational.com/article/2013/02/15/patagonia-veut-jeter-les-bases-d-un-capitalisme-responsable)
- 
+
+
 ### [Sea Smoke Cellars](http://www.seasmoke.com)
 - personnalité : [Bob Davids](http://www.bobdavids.com/biography)
 - localisation : Californie
 - Vidéos
  - [TEDx](https://www.youtube.com/watch?v=UQrPVmcgJJk) 
 
+
 ### [Orpheus Chamber Orchestra](http://orpheusnyc.org/about-orpheus/history/)
 - localiastion : New York, USA
 - fondateur : Julian Fifer
 - particularité : un des meilleurs orchestre de chambre sans chef d'orchestre
 
+
+### [Magasins WholeFoods](http://www.wholefoodsmarket.com/mission-values/core-values/we-support-team-member-excellence-and-happiness)
+- 
 
 ### [Probionov](http://www.probionov.com/fr)
 - localisation : Cantal, France
