@@ -23,10 +23,8 @@
   
 ##  
 > Dans la vie, il y a deux catégories d’individus :  
-> Ceux qui regardent le monde tel qu’il est  
-> et se demandent pourquoi.  
-> Ceux qui imaginent le monde tel qu’il pourrait être  
-> et se disent pourquoi pas ?  
+> Ceux qui regardent le monde tel qu’il est et se demandent pourquoi.  
+> Ceux qui imaginent le monde tel qu’il pourrait être  et se disent pourquoi pas ?  
 > --- Georges-Bernard Shaw  
   
 ##  
