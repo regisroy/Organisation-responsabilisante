@@ -1,6 +1,6 @@
 # Quelques citations
 
-> "Mal nommer les choses, c'est ajouter au malheur du monde."  
+> "Mal nommer les choses, c'est ajouter au malheur du monde."    
 > --- Albert Camus
    
 ##
@@ -8,7 +8,7 @@
 > Montre moi et je me souviendrai  
 > Implique moi et je comprendrai  
 ##
-> L’imagination est plus importante que le savoir
+> L’imagination est plus importante que le savoir    
 > --- Albert Einstein
 ##
 
