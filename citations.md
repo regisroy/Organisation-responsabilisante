@@ -14,6 +14,6 @@
   
 ##  
 > Nous devons devenir le changement que nous souhaitons voir dans le monde  
-> --- Gandhi  
+>> Gandhi  
   
 ##  
