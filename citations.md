@@ -17,3 +17,8 @@
 > --- Gandhi  
   
 ##  
+> La folie, c’est de refaire la même chose  
+> et d’en attendre un résultat différent.  
+> --- Albert Einstein
+  
+##  
