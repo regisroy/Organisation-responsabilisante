@@ -28,7 +28,7 @@
 > --- Georges-Bernard Shaw  
   
 ##    
-> Dire c'est rire  
+> Dire fait rire  
 > Faire fait taire  
 
 ##  
