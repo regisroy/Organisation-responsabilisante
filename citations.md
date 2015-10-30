@@ -28,3 +28,14 @@
 > --- Georges-Bernard Shaw  
   
 ##  
+> Dire c'est rire
+> Faire fait taire
+
+##
+> La différence entre la théorie et la pratique.
+> En théorie c'est pareil
+> Mais en pratique c'est différent
+
+##
+> 
+> 
