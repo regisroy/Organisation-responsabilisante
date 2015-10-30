@@ -28,8 +28,9 @@
 > --- Georges-Bernard Shaw  
   
 ##    
-> Dire fait rire  
-> Faire fait taire  
+> Bien dire fait rire  
+> Bien faire fait taire
+> --- André Dacier
 
 ##  
 > La différence entre la théorie et la pratique.  
