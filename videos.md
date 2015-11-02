@@ -10,6 +10,7 @@
 - [Chrono Flex : Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
 - [Chrono Flex : Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
 - [Chrono Flex : Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
+- [Alexandre Gérard - TEDx](https://www.youtube.com/watch?v=VebUucpwAZc)
 - [Lippi : TEDx pas Frédéric Lippi](https://www.youtube.com/watch?v=jwUskTfhbIk)
 - [Poult : Comment pousser le management participatif encore plus loin](https://www.youtube.com/watch?v=lcgerZTq640)
 - [Poult : L'interview de Carlos Verkaeren](https://www.youtube.com/watch?v=2XnJs5dykbk)
@@ -26,7 +27,7 @@
 - [La créativité demande du temsps](https://www.youtube.com/watch?v=AXo_pFaeMGQ)
 - Officience
  - [Pourquoi je ne crois pas à l'entreprise libérée | Sylvain Pierre (Officience) | TEDx](https://www.youtube.com/watch?v=7PmmhzljJdw)
- - [Le leadership dans l’entreprise libér)e ](https://www.youtube.com/watch?v=TkuPimyH2YI)
+ - [Le leadership dans l’entreprise libérée (Bob Davids, Isaac Getz, Laurent Ledoux) ](https://www.youtube.com/watch?v=TkuPimyH2YI)
  - ...
 - Conférences Jean-François Zobrist
  - [pour I2D](https://vimeo.com/66659970 )
