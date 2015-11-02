@@ -202,7 +202,6 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### [Magasins WholeFoods](http://www.wholefoodsmarket.com/mission-values/core-values/we-support-team-member-excellence-and-happiness)
-- 
 
 
 ### [Probionov](http://www.probionov.com/fr)
@@ -217,7 +216,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - personnalités : 
 - articles :
  - [self-management manifesto PDF](http://www.mattblacksystems.com/system/site/uploads/content/docs//Designing%20the%20Void%20-%20A%20Manifesto%20for%20Self-Managed%20Work.pdf)
-
+ - [Self-managing Organisation at Matt Black Systems](http://www.enliveningedge.org/organizations/matt-black-systems-a-truly-self-managing-organization-part-1/)
 
 ### [HCL](http://www.hcltech.com)
 - personnalité : [Vineet Nayar](http://vineetnayar.com)
