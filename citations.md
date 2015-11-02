@@ -29,14 +29,35 @@
   
 ##    
 > Bien dire fait rire  
-> Bien faire fait taire
-> --- André Dacier
+> Bien faire fait taire.  
+> --- André Dacier  
 
 ##  
-> La différence entre la théorie et la pratique.  
-> En théorie c'est pareil  
-> Mais en pratique c'est différent  
+> La différence entre la théorie et la pratique.   
+> En théorie c'est pareil.  
+> Et en pratique c'est différent.  
 
 ##
->   
->   
+> Le meilleur manager est celui qui sait trouver les talents pour faire les choses,  
+> et qui sait aussi réfréner son envie de s'en mêler pendant qu'ils le font.  
+> --- Théodore Roosevelt  
+
+##  
+> Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie.  
+> --- Confucius  
+
+##  
+> Une entreprise sans ordre est incapable de survivre,  
+> mais une entreprise sans désordre est incapable d'évoluer.  
+> --- B. Nadoulek  
+
+##  
+>  Les hommes construisent trop de murs  
+> et pas assez de ponts.  
+>  --- Isaac Newton
+
+##  
+> La difficulté n'est pas de comprendre les idées nouvelles,
+> mais d'échapper aux idées anciennes.  
+> --- JM. Keynes
+
