@@ -239,7 +239,9 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - localisation : Nord, France
 - activité : fabrication d'écoveloppes, pochettes et sacs à soufflets en papier
 - personnalité(s) : Emmanuel Druon
-- Article : [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
+- Article
+ - [la voix du nord](http://www.pocheco.com/2010/medias/articles/VDN140315.pdf)
+ - [La vie des salariés sans chef - Nord Eclair](http://www.pocheco.com/2010/medias/articles/Nord_Eclair_240415.pdf)
 - livre : [Le Syndrome du Poisson Lune - Un manifeste d'anti management](http://www.pochecolaboutique.com/la-librairie/34-le-syndrome-du-poisson-lune-un-manifeste-d-anti-management.html) d'Emmanuel Druon
 
 
