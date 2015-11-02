@@ -15,6 +15,7 @@
 - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhée
 
 ## Des Videos
+- [Une entreprise libérée, c'est quoi ?](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
 - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
 - [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
 - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
