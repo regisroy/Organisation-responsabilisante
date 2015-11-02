@@ -11,7 +11,7 @@
 - [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) de Isaac GETZ et Brian M. CARNEY  ( [site](http://liberteetcie.com) )
 - [La belle histoire de Favi tome 1 et 2](http://www.favi.com/managf.php) de J.F. Zobrist
 - [Essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
-- [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk]))
+- [Reinventing Organizations](http://www.reinventingorganizations.com/purchase.html) de Frédéric LALOUX ([son site](http://www.reinventingorganizations.com)  |  [vidéo FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [vidéo EN](https://www.youtube.com/watch?v=gcS04BI2sbk])) - [ci-dessous](#frédéric-laloux-et-reinventing-organizations)
 - [Happy RH : Le bonheur au travail. Rentable et durable](http://www.amazon.fr/Happy-RH-bonheur-travail-Rentable/dp/2874033146) de Laurence Vanhée
 
 ## Des Videos
