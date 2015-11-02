@@ -1,7 +1,7 @@
 # Quelques citations
 
 > "Mal nommer les choses, c'est ajouter au malheur du monde."    
-> --- Albert Camus
+> --- Albert Camus  
    
 ##  
 > Dis-moi et j’oublierai  
@@ -17,14 +17,13 @@
 > --- Gandhi  
   
 ##  
-> La folie, c’est de refaire la même chose  
-> et d’en attendre un résultat différent.  
+> La folie, c’est de refaire la même chose  et d’en attendre un résultat différent.  
 > --- Albert Einstein
   
 ##  
 > Dans la vie, il y a deux catégories d’individus :  
 > Ceux qui regardent le monde tel qu’il est et se demandent pourquoi.  
-> Ceux qui imaginent le monde tel qu’il pourrait être  et se disent pourquoi pas ?  
+> Ceux qui imaginent le monde tel qu’il pourrait être et se disent pourquoi pas ?  
 > --- Georges-Bernard Shaw  
   
 ##    
@@ -52,12 +51,10 @@
 > --- B. Nadoulek  
 
 ##  
->  Les hommes construisent trop de murs  
-> et pas assez de ponts.  
+>  Les hommes construisent trop de murs et pas assez de ponts.  
 >  --- Isaac Newton
 
 ##  
-> La difficulté n'est pas de comprendre les idées nouvelles,
-> mais d'échapper aux idées anciennes.  
+> La difficulté n'est pas de comprendre les idées nouvelles mais d'échapper aux idées anciennes.  
 > --- JM. Keynes
 
