@@ -322,7 +322,8 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - [Forum / espace](http://discourse.reinventingorganizations.com)
 - [facebook](https://www.facebook.com/groups/548684308604773/)
 - Videos
-  - Frédéric Laloux [FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [EN](https://www.youtube.com/watch?v=gcS04BI2sbk])  
+  - Frédéric Laloux [FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [EN](https://www.youtube.com/watch?v=gcS04BI2sbk])
+  - [RSA : Frederic Laloux on Soulful Organisations - 2015](https://www.youtube.com/watch?v=GxGGkrtKZaA)
 
 
 ## Carte des entreprise encours de "libération" ou "libérées"
