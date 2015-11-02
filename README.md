@@ -25,6 +25,7 @@
 - [Autres vidéos](videos.md)
 
 ## Des Articles / Blogs
+- [Le manifeste des leaders (Lippi, Innov on, Poult)](http://www.manifeste-leaders.org/le-manifeste)
 - [Le management fait sa révolution](https://nicolascordier.wordpress.com/2014/05/11/le-management-fait-sa-revolution-de-quels-leaders-avons-nous-besoin/)
 - [Aiseco, entreprise auto-managée par ses salariés](https://imatechnologies.wordpress.com/2014/12/30/aiseco-entreprise-auto-managee-par-ses-salaries)
 - [Association MOM21](http://www.mom21.org)
