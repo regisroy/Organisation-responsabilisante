@@ -213,10 +213,11 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 ### [Matt Black Systems](www.mattblacksystems.com)
 - localisation : Angleterre
-- personnalités : 
+- personnalités : Julian Wilson, Andrew Holm
 - articles :
  - [self-management manifesto PDF](http://www.mattblacksystems.com/system/site/uploads/content/docs//Designing%20the%20Void%20-%20A%20Manifesto%20for%20Self-Managed%20Work.pdf)
  - [Self-managing Organisation at Matt Black Systems](http://www.enliveningedge.org/organizations/matt-black-systems-a-truly-self-managing-organization-part-1/)
+
 
 ### [HCL](http://www.hcltech.com)
 - personnalité : [Vineet Nayar](http://vineetnayar.com)
