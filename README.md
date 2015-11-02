@@ -40,7 +40,9 @@
 - localisation : Grenoble
 - personnalité : Christophe Baillon
 - article : [Un exemple d’entreprise libérée : Sogilis](http://www.contrepoints.org/2015/05/28/209048-un-exemple-dentreprise-liberee-sogilis)
-- vidéo : [Présentation de Christophe Baillon (Sogilis) - Press Club de France ](https://www.youtube.com/watch?v=QVf5MVV4XZQ)
+- vidéos 
+  - [Présentation de Christophe Baillon (Sogilis) - Press Club de France ](https://www.youtube.com/watch?v=QVf5MVV4XZQ)
+  - [Laurent Mangue - Atelier MOM21](https://www.youtube.com/watch?v=J-nMqFT75hQ)
 
 
 ### [FAVI](http://www.favi.com)
@@ -69,6 +71,7 @@
   - [Lâcher prise, transfert des pouvoirs, performance](http://www.uodc.fr/management/video/v/video/lacher_prise_transfert_des_pouvoirs_performance/chrono_flex_un_modele_de_croissance_la_crise_et_une_enorme_baffe.html)
   - [Libérer l'entreprise ... de son patron !](https://www.youtube.com/watch?v=H9HbwkGAmgo)
   - [Alexandre Gérard chez Contact Entreprise](https://www.youtube.com/watch?v=SZrAoqV3PsY)
+  - [Alexandre Gérard à la radio Sun Busines](https://www.youtube.com/watch?v=G4EavBTtoSo)
 
 
 ### [Lippi](http://www.lippi.fr/fr/) : France
@@ -187,7 +190,8 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - personnalité : [Bob Davids](http://www.bobdavids.com/biography)
 - localisation : Californie
 - Vidéos
- - [TEDx](https://www.youtube.com/watch?v=UQrPVmcgJJk) 
+ - [TEDx](https://www.youtube.com/watch?v=UQrPVmcgJJk)
+ - [World Forum Lille - Bob Davids, Isaac Getz, Laurent Ledoux](https://www.youtube.com/watch?v=TkuPimyH2YI)
 
 
 ### [Orpheus Chamber Orchestra](http://orpheusnyc.org/about-orpheus/history/)
