@@ -317,6 +317,10 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ## Frédéric Laloux et "Reinventing Organizations"
 - [Reinventing Organization : site](http://www.reinventingorganizations.com)
 - [Reinventing Organization : les différents paradigmes des organisations](http://awperformances.com/project/reinventing-organization-les-differents-paradigmes-des-organisations/)
+- Livres : [FR](http://www.amazon.fr/dp/2354561059)  |  [EN](http://www.amazon.fr/dp/2960133501)  |  [PL](http://www.empik.com/pracowac-inaczej-laloux-frederic,p1116177008,ksiazka-p)
+- [wiki Reinventing Organisations](http://reinventingorganizationswiki.com)
+- [Forum / espace](http://discourse.reinventingorganizations.com)
+- [facebook](https://www.facebook.com/groups/548684308604773/)
 - Videos
   - Frédéric Laloux [FR](https://www.youtube.com/watch?v=NZKqPoQiaDE)  |  [EN](https://www.youtube.com/watch?v=gcS04BI2sbk])  
 
