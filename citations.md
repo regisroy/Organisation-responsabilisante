@@ -58,3 +58,8 @@
 > La difficulté n'est pas de comprendre les idées nouvelles mais d'échapper aux idées anciennes.  
 > --- JM. Keynes
 
+##  
+> Liberté + Responsabilité = Performance + Bonheur  
+> --- Laurence Vanhée    
+
+
