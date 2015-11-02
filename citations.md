@@ -62,4 +62,10 @@
 > Liberté + Responsabilité = Performance + Bonheur  
 > --- Laurence Vanhée    
 
+##  
+> L'homme supérieur est celui qui d'abord met ses paroles en pratique,  
+> et ensuite parle conformément à ses actions.  
+> --- Confucius  
+
+##  
 
