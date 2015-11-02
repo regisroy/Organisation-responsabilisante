@@ -306,9 +306,14 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - personnalité : 
 - Articles : [Une entreprise qui se libère …](http://blog.kronos.fr/entreprise-liberee/)
 
+### [Octave](http://www.octave.biz)
+- localisation : Angers
+- personnalité : Michel Perrinet
+- Articles : [A Angers, une entreprise fonctionne sans hiérarchie ! ](http://www.ouest-france.fr/angers-insolite-une-entreprise-liberee-sans-petits-chefs-3760445)
+
 
 ### Entreprises se lançant dans la libération
-- Michelin (usines)
+- Michelin (usines) : [ici](https://www.youtube.com/watch?v=ztsGX4YNkQ4) et  [ici](https://www.youtube.com/watch?v=vQIabPEgN3U)
 - Auchan (magasins)
 - Kiabi (magasins)
 - Décathlon (magasins)
@@ -374,8 +379,6 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 - Maisons Hanau, Alsace
 - Evaneos, ile-de-France
-- Michelin : [ici](https://www.youtube.com/watch?v=ztsGX4YNkQ4), [ici](https://www.youtube.com/watch?v=vQIabPEgN3U)
-- DoYouBuzz, Nantes
 
 
 ## Controverses / Critiques
