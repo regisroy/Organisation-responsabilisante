@@ -17,7 +17,6 @@
 ## Des Videos
 - [Une entreprise libérée, c'est quoi ?](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
 - [TEDx Isaac Getz](https://www.youtube.com/watch?v=9oZUMzQDaw8)
-- [Film de présentation des entreprises libérées](https://www.youtube.com/watch?v=ZrAFpPbz7O4)
 - [Question de confiance - Favi](https://www.youtube.com/watch?v=pBTdhwXpKOA)
 - [L'entreprise libérée - Film](https://www.youtube.com/watch?v=lGShsSQatN8)
 - [Le bonheur au travail - documentaire ARTE - VOD](http://boutique.arte.tv/f10216-bonheur_travail)
