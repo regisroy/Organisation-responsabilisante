@@ -25,7 +25,8 @@
  - [Une équipe qui se gère elle même](https://www.youtube.com/watch?v=oab0LNwLRnI)
 - [La créativité demande du temsps](https://www.youtube.com/watch?v=AXo_pFaeMGQ)
 - Officience
- - [Pourquoi je ne crois pas à l'entreprise libérée | Sylvain Pierre | TEDx](https://www.youtube.com/watch?v=7PmmhzljJdw) 
+ - [Pourquoi je ne crois pas à l'entreprise libérée | Sylvain Pierre (Officience) | TEDx](https://www.youtube.com/watch?v=7PmmhzljJdw)
+ - [Le leadership dans l’entreprise libér)e ](https://www.youtube.com/watch?v=TkuPimyH2YI)
  - ...
 - Conférences Jean-François Zobrist
  - [pour I2D](https://vimeo.com/66659970 )
