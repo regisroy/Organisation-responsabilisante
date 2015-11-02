@@ -312,13 +312,19 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Articles : [A Angers, une entreprise fonctionne sans hiérarchie ! ](http://www.ouest-france.fr/angers-insolite-une-entreprise-liberee-sans-petits-chefs-3760445)
 
 
+## Michelin
+- Vidéos
+ - [Michelin Manufacturing Way : présentation du Management Autonome et la Performance et du Progrès](https://www.youtube.com/watch?v=ztsGX4YNkQ4)
+ - [Organisations responsabilisantes Michelin](https://www.youtube.com/watch?v=vQIabPEgN3U)
+- Articles
+ - [Comment Michelin «libère» ses cols bleus](http://www.wk-rh.fr/actualites/detail/88778/comment-michelin-libere-ses-cols-bleus.html) 
+
 ### Entreprises se lançant dans la libération
-- Michelin (usines) : [ici](https://www.youtube.com/watch?v=ztsGX4YNkQ4) et  [ici](https://www.youtube.com/watch?v=vQIabPEgN3U)
 - Auchan (magasins)
 - Kiabi (magasins)
 - Décathlon (magasins)
-- Ikea (Relation client - Martial Le Hiress)
-- Scarabée Biocoop : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
+- Ikea (Relation client - Martial Le Hiress - [video](https://www.youtube.com/watch?v=j-uBFljdPNI))
+- Scarabée Biocoop (Holacratie) : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
 
 
 ## Frédéric Laloux et "Reinventing Organizations"
