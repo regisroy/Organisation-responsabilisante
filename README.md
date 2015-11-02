@@ -204,11 +204,20 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ### [Magasins WholeFoods](http://www.wholefoodsmarket.com/mission-values/core-values/we-support-team-member-excellence-and-happiness)
 - 
 
+
 ### [Probionov](http://www.probionov.com/fr)
 - localisation : Cantal, France
 - Personnalité : Stanislas Desjonqueres
 - [Fini l'autoritarisme, Bonjour l'intelligence collective !](https://drive.google.com/file/d/0B3ijWVPIoL0nalE5dFhvSkxBRDg/edit)
 - [Autonomie des salariés et libération du travail dans l'entreprise - Stanislas Desjonqueres](https://www.youtube.com/watch?v=xfBIHdl-75s)
+
+
+### [Matt Black Systems](www.mattblacksystems.com)
+- localisation : Angleterre
+- personnalités : 
+- articles :
+ - [self-management manifesto PDF](http://www.mattblacksystems.com/system/site/uploads/content/docs//Designing%20the%20Void%20-%20A%20Manifesto%20for%20Self-Managed%20Work.pdf)
+
 
 ### [HCL](http://www.hcltech.com)
 - personnalité : [Vineet Nayar](http://vineetnayar.com)
