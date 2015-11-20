@@ -32,7 +32,7 @@
 - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
 - [5 nouvelles bonnes raisons pour libérer les énergies dans son entreprise](http://www.resultence-coaching.com/5-nouvelles-bonnes-raisons-pour-liberer-les-energies-dans-son-entreprise/) 
 - [... Et d'autres articles](articles.md)
-
+- [paraboles / petites histoires](petites_histoires.md)
 
 ## Des entreprises libérées
 
