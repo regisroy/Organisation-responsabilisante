@@ -34,3 +34,6 @@ Les incompétents n'ont pas besoin de superviseur, à quoi cela servirait puisqu
 Si malgré tout, tu es productif, ne montre pas que tu es heureux au travail,on ne te le pardonnerait pas.  
 Si tu t'obstines à être une Fourmi heureuse et productive, monte ta propre entreprise : au moins tu n'auras pas à faire vivre les Frelon, Coccinelle, Araignée, Cigale, Hibou et autre Cafard.   
 Lamentablement, tout ceci est basé sur des études scientifiques universitaires qui démontrent que la majorité des êtres humains tendent à devenir des parasites.  
+
+## Autres histoires  
+...
