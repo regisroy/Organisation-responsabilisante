@@ -1,4 +1,4 @@
-## Paraboles / Petites et grandes histoires
+# Paraboles / Petites et grandes histoires
 
 ## La Fable de la Fourmi heureuse
 Voici une parabole a été partagée avec moi lors d'une transformation d'entreprise.
