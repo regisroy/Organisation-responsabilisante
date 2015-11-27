@@ -1,6 +1,6 @@
 # Entreprise Libérée - Entreprise Y - Teal enterprise - Entreprise responsabilisante - SARA
 
-## Définition
+## Définitions
 ### Définition est tirée du livre [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) d'Isaac GETZ et Brian M. CARNEY.
 > Il s'agit d'une entreprise dont la majorité de salariées sont **complètement** libres et responsables d'entreprendre toute action qu'eux mêmes -pas leurs chefs ou les procédures- décident comme les meilleures pour la vision de leur entreprise.  
   
