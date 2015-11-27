@@ -234,7 +234,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### [Davidson Consulting](http://www.davidson.fr)
-- activié(s) : constructeur moto
+- activié(s) : société de services en informatique
 - localiation(s) : France
 
 
