@@ -131,6 +131,7 @@
 - Vidéos :
  - [RSA Spotlight: Jos de Blok on Organizational Structures](https://www.youtube.com/watch?t=95&v=BeOrNjwHw58)
  - [Healthcare: humanity above bureaucracy | Jos de Blok | TEDxGeneva ](https://www.youtube.com/watch?v=SSoWtXvqsgg)
+ - [RSA Replay: Humanity Above Bureaucracy | Jos de Blok](https://www.youtube.com/watch?v=jzCGvfUozf8)
 
 
 ### [AES](http://aes.com)
@@ -474,5 +475,4 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - [Marinaleda](https://fr.wikipedia.org/wiki/Marinaleda)
 - ...
 
-[:baggage_claim:coin technique](technique.md)
 
