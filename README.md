@@ -1,4 +1,4 @@
-# Entreprise Libérée - Entreprise Y - Teal enterprise
+# Entreprise Libérée - Entreprise Y - Teal enterprise - Entreprise responsabilisante - SARA
 
 ## Définition
 ### Cette définition est tirée du livre [Liberté & Cie](http://www.babelio.com/livres/Getz-Liberte-Cie--Quand-la-liberte-des-salaries-fait/563024) d'Isaac GETZ et Brian M. CARNEY.
