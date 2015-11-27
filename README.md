@@ -22,7 +22,7 @@
 - [Le bonheur au travail - documentaire ARTE - VOD](http://boutique.arte.tv/f10216-bonheur_travail)
 - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
 - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
-- [Et d'autres vidéos...](videos.md)
+- [... Et d'autres vidéos](videos.md)
 
 ## Des Articles / Blogs
 - [Le manifeste des leaders (Lippi, Innov on, Poult)](http://www.manifeste-leaders.org/le-manifeste)
