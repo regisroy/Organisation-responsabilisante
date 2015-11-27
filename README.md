@@ -136,7 +136,7 @@
 ### [AES](http://aes.com)
 - Localisation : siège USA
 - personnalité : 
-  - [Dennis Bakke](http://www.dennisbakke.com)   [wikipedia](https://en.wikipedia.org/wiki/Dennis_Bakke)
+  - [Dennis Bakke](http://www.dennisbakke.com)  -  [wikipedia](https://en.wikipedia.org/wiki/Dennis_Bakke)
 - livres: 
  - [Joy at Work](http://www.amazon.fr/dp/067006498X)
  - [The Decision Maker](http://www.amazon.fr/dp/B00BE64MAI)   
@@ -243,7 +243,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 ### [Davidson Consulting](http://www.davidson.fr)
 - activié(s) : société de services en informatique
-- localiation(s) : France
+- localisation(s) : France (siège Paris)
 
 
 ### [Agesys](http://www.agesys.fr)
@@ -273,14 +273,20 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - article : [Le manager de la pyramide inversée](http://membres.labellucie.com/articles-et-publications/social-et-droits/articles-et-publications/le-manager-de-la-pyramide-inversee)
 
 
-### Harley Davidson
+### [Harley Davidson](http://www.harley-davidson.com/content/h-d/fr_FR/home.html)
 - leader : Richard Teerlink
 - livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
 - localisation : Etats-Unis
 
 
-### Sun Hydraulics
-- personnalité : 
+### Avis
+- personnalité :
+- activité : location de véhicules
+- localisation : siège USA (mondial)
+
+
+### [Sun Hydraulics](http://www.sunhydraulics.com/about/company-history)
+- personnalité : Bob Koski
 - activité : matériel de précision dans les vannes hydrauliques
 - localisation : Etats-Unis, Floride
 
