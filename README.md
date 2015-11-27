@@ -136,7 +136,10 @@
 ### [AES](http://aes.com)
 - Localisation : siège USA
 - personnalité : 
-  - [Dennis Bakke](http://www.dennisbakke.com)  livres: [Joy at Work](http://www.amazon.fr/dp/067006498X)  [The Decision Maker](http://www.amazon.fr/dp/B00BE64MAI)
+  - [Dennis Bakke](http://www.dennisbakke.com)   [wikipedia](https://en.wikipedia.org/wiki/Dennis_Bakke)
+- livres: 
+ - [Joy at Work](http://www.amazon.fr/dp/067006498X)
+ - [The Decision Maker](http://www.amazon.fr/dp/B00BE64MAI)   
 
 
 ### [Sew Usocome](http://www.usocome.com)
