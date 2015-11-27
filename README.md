@@ -34,7 +34,7 @@
 - [... Et d'autres articles](articles.md)
 - [paraboles / petites histoires](petites_histoires.md)
 
-## Des entreprises libérées
+## Des entreprises libérées ou en chemin
 
 ### [Sogilis](http://sogilis.com/)
 - activité : SSII
