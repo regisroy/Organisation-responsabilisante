@@ -419,7 +419,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - [L’entreprise libérée pervertie ?](http://www.jobsferic.fr/L-entreprise-liberee-pervertie-.html)
 
 
-## Autour des "Entreprises Libérées", "Teal Organizations"
+## Autour des "Entreprises Libérées", "Teal Organizations", ...
 - [Holacratie](http://fr.wikipedia.org/wiki/Holacratie)
  - [HolacracyOne](http://www.holacracy.org)
 - [Sociocratie](http://fr.wikipedia.org/wiki/Sociocratie)
