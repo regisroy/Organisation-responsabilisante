@@ -22,7 +22,7 @@
 - [Le bonheur au travail - documentaire ARTE - VOD](http://boutique.arte.tv/f10216-bonheur_travail)
 - [Reinventons nos organisations - Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE)
 - [Rendre le travail visible : la solution pour sortir de la crise](https://www.youtube.com/watch?v=B_1BPdB_UMc)
-- [Autres vidéos](videos.md)
+- [Et d'autres vidéos...](videos.md)
 
 ## Des Articles / Blogs
 - [Le manifeste des leaders (Lippi, Innov on, Poult)](http://www.manifeste-leaders.org/le-manifeste)
@@ -32,7 +32,6 @@
 - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
 - [5 nouvelles bonnes raisons pour libérer les énergies dans son entreprise](http://www.resultence-coaching.com/5-nouvelles-bonnes-raisons-pour-liberer-les-energies-dans-son-entreprise/) 
 - [... Et d'autres articles](articles.md)
-- [paraboles / petites histoires](petites_histoires.md)
 
 ## Des entreprises dites "Libérées" ou en chemin ou inspirantes
 
@@ -114,7 +113,6 @@
 - Articles
  - [Poult : le management démocratique existe](http://www.internetactu.net/2014/11/04/poult-le-management-democratique-existe) 
 
-
 ### Sécurité sociale belge
 - personnalité : Laurence Vanhée
 - localisation : Belgique
@@ -133,6 +131,12 @@
 - Vidéos :
  - [RSA Spotlight: Jos de Blok on Organizational Structures](https://www.youtube.com/watch?t=95&v=BeOrNjwHw58)
  - [Healthcare: humanity above bureaucracy | Jos de Blok | TEDxGeneva ](https://www.youtube.com/watch?v=SSoWtXvqsgg)
+
+
+### [AES](http://aes.com)
+- Localisation : siège USA
+- personnalité : 
+  - [Dennis Bakke](http://www.dennisbakke.com)  livres: [Joy at Work](http://www.amazon.fr/dp/067006498X)  [The Decision Maker](http://www.amazon.fr/dp/B00BE64MAI)
 
 
 ### [Sew Usocome](http://www.usocome.com)
@@ -220,6 +224,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### [HCL](http://www.hcltech.com)
+- localisation : Inde
 - personnalité : [Vineet Nayar](http://vineetnayar.com)
 - articles
   - [L'homme qui réinvente le management](http://archives.lesechos.fr/archives/cercle/2011/06/01/cercle_35596.htm)
@@ -266,7 +271,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### Harley Davidson
-- leader : Richard Teerlink (aussi connu comme Rich Teerlink)
+- leader : Richard Teerlink
 - livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
 - localisation : Etats-Unis
 
@@ -329,12 +334,22 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Articles
  - [Comment Michelin «libère» ses cols bleus](http://www.wk-rh.fr/actualites/detail/88778/comment-michelin-libere-ses-cols-bleus.html) 
 
+
+### [Teractem](http://www.teractem.fr)
+- localisation: Annecy
+- Articles
+ - [Devenir une entreprise libérée](http://liberation-entreprise.org/devenir-une-entreprise-liberee/)
+ - [Ces extra-terrestres de TERACTEM qui en ont fini avec les parapheurs](http://liberteetcie.com/2014/12/ces-extra-terrestres-de-teractem-qui-en-ont-fini-avec-les-parapheurs/)
+ - [Learning expedition du MOM21 chez Teractem](http://www.mom21.org/learning-expedition-du-mom21-chez-teractem/)
+
+
 ### Entreprises se lançant dans la libération
 - Auchan (magasins)
 - Kiabi (magasins)
 - Décathlon (magasins)
 - Ikea (Relation client - Martial Le Hiress - [video](https://www.youtube.com/watch?v=j-uBFljdPNI))
 - Scarabée Biocoop (Holacratie) : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
+- ...
 
 
 ## Frédéric Laloux et "Reinventing Organizations"
