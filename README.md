@@ -34,7 +34,7 @@
 - [... Et d'autres articles](articles.md)
 - [paraboles / petites histoires](petites_histoires.md)
 
-## Des entreprises en chemin
+## Des entreprises dites "Libérées" ou en chemin ou inspirantes
 
 ### [Sogilis](http://sogilis.com/)
 - activité : SSII
@@ -234,7 +234,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### [Davidson Consulting](http://www.davidson.fr)
-- activié(s) : Audit, Consulting informatique
+- activié(s) : constructeur moto
 - localiation(s) : France
 
 
