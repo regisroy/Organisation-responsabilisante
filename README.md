@@ -31,6 +31,8 @@
 - [Association MOM21](http://www.mom21.org)
 - [Blog de Nicolas Cordier](https://nicolascordier.wordpress.com)
 - [5 nouvelles bonnes raisons pour libérer les énergies dans son entreprise](http://www.resultence-coaching.com/5-nouvelles-bonnes-raisons-pour-liberer-les-energies-dans-son-entreprise/) 
+- [L’entreprise libérée : une véritable innovation managériale ?](http://www.anact.fr/web/actualite/essentiel?p_thingIdToShow=43829675)
+- [Les chemins de l'autonomie - 3 cultures d'entreprises](http://www.jago.fr/agilessence/actu/) - [slides](http://fr.slideshare.net/jfjago/les-chemins-de-lautonomie-3-cultures-dentreprises)
 - [... Et d'autres articles](articles.md)
 
 ## Des entreprises dites "Libérées" ou en chemin ou inspirantes
@@ -419,7 +421,9 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - 37signals
  - [Personne après 17h !](http://www.dynamique-mag.com/article/entreprises-managent-autrement.5686) 
 - Maisons Hanau, Alsace
-- Evaneos, ile-de-France
+- Evaneos, ile-de-
+- [Beyond Budgeting Institute](http://bbrt.org)
+- ...
 
 
 ## Controverses / Critiques / Attention
@@ -459,13 +463,14 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 ## Leadership / Management
 - [How To Lead When You Aren't The Leader](http://www.forbes.com/sites/williamarruda/2015/07/08/how-to-lead-when-you-arent-the-leader/)
+- [Le management par la bêtise ou la suppression des 5 C?](http://www.resultence-coaching.com/le-management-par-la-betise-ou-la-suppression-des-5-c/)
 
 
 ## Evaluation
 - [Mesurer la performance managériale à partir d’indicateurs : une chimère ? ](http://www.4tempsdumanagement.com/Mesurer-la-performance-manageriale-a-partir-d-indicateurs-une-chimere_a5902.html)
 
 
-## Confiance
+## Confiance / Pourquoi
 - [Simon Sinek - "First why and then trust" ](https://www.youtube.com/watch?v=4VdO7LuoBzM)
 
 
