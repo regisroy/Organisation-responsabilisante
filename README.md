@@ -317,7 +317,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Articles : [Une entreprise qui se libère …](http://blog.kronos.fr/entreprise-liberee/)
 
 
-## Michelin
+### Michelin
 - Vidéos
  - [Michelin Manufacturing Way : présentation du Management Autonome et la Performance et du Progrès](https://www.youtube.com/watch?v=ztsGX4YNkQ4)
  - [Organisations responsabilisantes Michelin](https://www.youtube.com/watch?v=vQIabPEgN3U)
@@ -345,9 +345,9 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 
 
 ### Entreprises se lançant dans la libération
-- Auchan (magasins)
-- Kiabi (magasins)
-- Décathlon (magasins)
+- Auchan (magasins - lesquels ?)
+- Kiabi (magasins - lesquels ?)
+- Décathlon (magasins - lesquels ?)
 - Ikea (Relation client - Martial Le Hiress - [video](https://www.youtube.com/watch?v=j-uBFljdPNI))
 - Scarabée Biocoop (Holacratie) : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
 - [Octave](http://www.octave.biz) (Anger, Michel Perrinet)
@@ -401,7 +401,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  > 5 : Ils ne savaient pas que c'était impossible, alors ils l'ont fait. (Mark Twain)
 
 
-## Inspirations
+## Inspirations / A suivre
 - Proginov, Nantes
  - [Prix de l'Entrepreneur. Proginov, le management par la confiance](http://www.entreprises.ouest-france.fr/article/prix-lentrepreneur-proginov-management-par-confiance-video-26-08-2015-223995)
 - Proselis, Nantes
