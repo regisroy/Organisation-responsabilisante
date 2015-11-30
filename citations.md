@@ -67,5 +67,18 @@
 > et ensuite parle conformément à ses actions.  
 > --- Confucius  
 
-##  
+## 
+> N’essayez pas de devenir un homme qui a du succès. Essayez de devenir un homme qui a de la valeur.
+> --- Albert Einstein
+
+## 
+> Échouer c’est avoir la possibilité de recommencer de manière plus intelligente. »
+> --- Henry Ford
+
+## 
+> Croyez que vous pouvez et vous êtes à mi-chemin. »
+> --- Theodore Roosevelt
+
+## 
+
 
