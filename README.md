@@ -238,17 +238,6 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - livre : [Les employés d'abord, les clients ensuite](http://www.amazon.fr/employ%C3%A9s-dabord-clients-ensuite-management/dp/2354560311/ref=sr_1_1?ie=UTF8&qid=1432411740&sr=8-1&keywords=Vineet+Nayar) de Vineet Nayar
 
 
-### DoYouBuzz
-- localisation : Nantes, France
-- Personnalité : Ludovic SIMON
-- Article : [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
-
-
-### [Davidson Consulting](http://www.davidson.fr)
-- activié(s) : société de services en informatique
-- localisation(s) : France (siège Paris)
-
-
 ### [Agesys](http://www.agesys.fr)
 - localisation : Noyon, France
 - [Blog](https://agesys.wordpress.com/2015/03/26/lentreprise-liberee-cest-retrouver-lesprit-startup/)
@@ -280,12 +269,6 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - leader : Richard Teerlink
 - livre : [More Than a Motorcycle: The Leadership Journey at Harley-Davidson](http://www.amazon.fr/More-Than-Motorcycle-Leadership-Harley-Davidson/dp/0875849504/ref=la_B001KIVU5U_1_1?s=books&ie=UTF8&qid=1435746579&sr=1-1)
 - localisation : Etats-Unis
-
-
-### Avis
-- personnalité :
-- activité : location de véhicules
-- localisation : siège USA (mondial)
 
 
 ### [Sun Hydraulics](http://www.sunhydraulics.com/about/company-history)
@@ -333,11 +316,6 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - personnalité : 
 - Articles : [Une entreprise qui se libère …](http://blog.kronos.fr/entreprise-liberee/)
 
-### [Octave](http://www.octave.biz)
-- localisation : Angers
-- personnalité : Michel Perrinet
-- Articles : [A Angers, une entreprise fonctionne sans hiérarchie ! ](http://www.ouest-france.fr/angers-insolite-une-entreprise-liberee-sans-petits-chefs-3760445)
-
 
 ## Michelin
 - Vidéos
@@ -355,12 +333,27 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
  - [Learning expedition du MOM21 chez Teractem](http://www.mom21.org/learning-expedition-du-mom21-chez-teractem/)
 
 
+### Avis
+- personnalité :
+- activité : location de véhicules
+- localisation : siège USA (mondial)
+
+
+### [Davidson Consulting](http://www.davidson.fr)
+- activié(s) : société de services en informatique
+- localisation(s) : France (siège Paris)
+
+
 ### Entreprises se lançant dans la libération
 - Auchan (magasins)
 - Kiabi (magasins)
 - Décathlon (magasins)
 - Ikea (Relation client - Martial Le Hiress - [video](https://www.youtube.com/watch?v=j-uBFljdPNI))
 - Scarabée Biocoop (Holacratie) : [Scarabée Biocoop libère son organisation ](http://business.lesechos.fr/directions-ressources-humaines/management/conduite-du-changement/021153919293-des-cercles-pour-doper-la-creativite-200532.php#xtor=CS1-35)
+- [Octave](http://www.octave.biz) (Anger, Michel Perrinet)
+  - [A Angers, une entreprise fonctionne sans hiérarchie ! ](http://www.ouest-france.fr/angers-insolite-une-entreprise-liberee-sans-petits-chefs-3760445)
+-  DoYouBuzz (Nantes, Ludovic SIMON)
+  - [DoYouBuzz : un « reboot » (redémarrage) complet !](http://liberation-entreprise.org/doyoubuzz-un-reboot-redemarrage-complet)
 - ...
 
 
