@@ -80,5 +80,7 @@
 > --- Theodore Roosevelt  
 
 ## 
+> Le secret de l'action, c'est de commencer  
+> --- Alain
 
 
