@@ -81,6 +81,9 @@
 
 ## 
 > Le secret de l'action, c'est de commencer  
-> --- Alain
+> --- Alain  
 
+## 
+> La simplicité est la sophistication suprême.   
+> --- Léonard de Vinci  
 
