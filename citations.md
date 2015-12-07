@@ -87,3 +87,7 @@
 > La simplicité est la sophistication suprême.   
 > --- Léonard de Vinci  
 
+##
+> Seule la vérité est révolutionnaire  
+> --- Lenine  
+
