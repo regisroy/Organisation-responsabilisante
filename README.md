@@ -178,6 +178,7 @@
  - [wikipedia](http://fr.wikipedia.org/wiki/W.L._Gore_%26_Associates)
 - :newspaper:
  - [Sur la route des entreprises libérées #2 GORE TEX](http://mylearningexpedition.com/2015/01/route-entreprises-liberees-2-gore-tex/)
+ - [L'entreprise Libérée-Une alternative du management-Edouard Frignet-ex-director GORE-Tex](https://www.youtube.com/watch?v=y0dwb4OFtrM) 
 
 
 ### [Morning Star](http://www.morningstarco.com/)
