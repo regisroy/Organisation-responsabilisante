@@ -275,7 +275,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 ### [Sun Hydraulics](http://www.sunhydraulics.com/about/company-history)
 - personnalité : Bob Koski
 - activité : matériel de précision dans les vannes hydrauliques
-- localisation : Etats-Unis, Floride
+- localisation : Etats-Unis, Floride (Sarasota)
 
 
 ### USAA
