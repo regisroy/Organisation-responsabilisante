@@ -91,3 +91,9 @@
 > Seule la vérité est révolutionnaire  
 > --- Lenine  
 
+##
+> L'art de la citation est l'art de ceux qui ne savent pas réfléchir par eux-mêmes.
+> --- Voltaire
+
+## 
+> 
