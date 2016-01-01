@@ -80,24 +80,24 @@
 > --- Theodore Roosevelt  
 
 ## 
-> Le secret de l'action, c'est de commencer  
+> Le secret de l'action, c'est de commencer   
 > --- Alain  
 
 ## 
-> La simplicité est la sophistication suprême.   
+> La simplicité est la sophistication suprême.    
 > --- Léonard de Vinci  
 
 ##
-> Seule la vérité est révolutionnaire  
+> Seule la vérité est révolutionnaire   
 > --- Lenine  
 
 ##
-> L'art de la citation est l'art de ceux qui ne savent pas réfléchir par eux-mêmes.
+> L'art de la citation est l'art de ceux qui ne savent pas réfléchir par eux-mêmes.   
 > --- Voltaire
 
 ## 
 > I find television very educating.  
-  Every time somebody turns on the set, I go into the other room and read a book. 
+  Every time somebody turns on the set, I go into the other room and read a book.    
 > --– Groucho Marx
 
 ## 
