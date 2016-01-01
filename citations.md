@@ -96,4 +96,9 @@
 > --- Voltaire
 
 ## 
+> I find television very educating.  
+  Every time somebody turns on the set, I go into the other room and read a book. 
+> --– Groucho Marx
+
+## 
 > 
