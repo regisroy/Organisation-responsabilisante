@@ -105,5 +105,10 @@
 > --- Montesquieu    
 
 ## 
+> Celui qui veut déplacer des montagnes commence déjà par enlever les petits cailloux    
+> --- Confucius
+
+## 
 > 
+
 
