@@ -1,19 +1,19 @@
 # Quelques citations
 
-> "Mal nommer les choses, c'est ajouter au malheur du monde."    
+> Mal nommer les choses, c'est ajouter au malheur du monde.    
 > --- Albert Camus  
    
 ##  
-> Dis-moi et j’oublierai  
-> Montre moi et je me souviendrai  
-> Implique moi et je comprendrai  
+> Dis-moi et j’oublierai,  
+> Montre moi et je me souviendrai,  
+> Implique moi et je comprendrai.  
   
 ##  
-> L’imagination est plus importante que le savoir    
+> L’imagination est plus importante que le savoir,    
 > --- Albert Einstein
   
 ##  
-> Nous devons devenir le changement que nous souhaitons voir dans le monde  
+> Nous devons devenir le changement que nous souhaitons voir dans le monde,  
 > --- Gandhi  
   
 ##  
@@ -80,7 +80,7 @@
 > --- Theodore Roosevelt  
 
 ## 
-> Le secret de l'action, c'est de commencer   
+> Le secret de l'action, c'est de commencer.   
 > --- Alain  
 
 ## 
@@ -88,7 +88,7 @@
 > --- Léonard de Vinci  
 
 ##
-> Seule la vérité est révolutionnaire   
+> Seule la vérité est révolutionnaire.   
 > --- Lenine  
 
 ##
@@ -101,11 +101,11 @@
 > --– Groucho Marx
 
 ## 
-> On ne sait que ce que l’on pratique    
+> On ne sait que ce que l’on pratique.    
 > --- Montesquieu    
 
 ## 
-> Celui qui veut déplacer des montagnes commence déjà par enlever les petits cailloux    
+> Celui qui veut déplacer des montagnes commence déjà par enlever les petits cailloux.    
 > --- Confucius
 
 ## 
