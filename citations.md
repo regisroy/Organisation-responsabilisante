@@ -12,13 +12,18 @@
 > L’imagination est plus importante que le savoir,    
 > --- Albert Einstein
   
-##  
-> Nous devons devenir le changement que nous souhaitons voir dans le monde,  
-> --- Gandhi  
+## 
+> Deux choses sont infinies, l'Univers et la Bêtise humaine.     
+> Mais en ce qui concerne l'Univers, je n'en ai pas encore acquis la certitude absolue.    
+> --- Albert Einstein    
   
 ##  
 > La folie, c’est de refaire la même chose  et d’en attendre un résultat différent.  
 > --- Albert Einstein
+
+##  
+> Nous devons devenir le changement que nous souhaitons voir dans le monde,  
+> --- Gandhi  
   
 ##  
 > Dans la vie, il y a deux catégories d’individus :  
@@ -46,6 +51,15 @@
 > --- Confucius  
 
 ##  
+> L'homme supérieur est celui qui d'abord met ses paroles en pratique,  
+> et ensuite parle conformément à ses actions.  
+> --- Confucius  
+
+## 
+> Celui qui veut déplacer des montagnes commence déjà par enlever les petits cailloux.    
+> --- Confucius
+
+##  
 > Une entreprise sans ordre est incapable de survivre,  
 > mais une entreprise sans désordre est incapable d'évoluer.  
 > --- B. Nadoulek  
@@ -61,11 +75,6 @@
 ##  
 > Liberté + Responsabilité = Performance + Bonheur  
 > --- Laurence Vanhée    
-
-##  
-> L'homme supérieur est celui qui d'abord met ses paroles en pratique,  
-> et ensuite parle conformément à ses actions.  
-> --- Confucius  
 
 ## 
 > N’essayez pas de devenir un homme qui a du succès. Essayez de devenir un homme qui a de la valeur.  
@@ -103,10 +112,6 @@
 ## 
 > On ne sait que ce que l’on pratique.    
 > --- Montesquieu    
-
-## 
-> Celui qui veut déplacer des montagnes commence déjà par enlever les petits cailloux.    
-> --- Confucius
 
 ## 
 > 
