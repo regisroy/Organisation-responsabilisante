@@ -114,6 +114,11 @@
 > --- Montesquieu    
 
 ## 
+> Quand les hommes ne peuvent changer les choses, ils changent les mots    
+> --- Jean Jaurès
+
+## 
 > 
+
 
 
