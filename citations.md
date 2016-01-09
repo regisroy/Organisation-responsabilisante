@@ -81,6 +81,11 @@
 > --- Albert Einstein  
 
 ## 
+> Tout le monde est un génie.     
+> Mais si vous jugez un poisson sur sa capacité à grimper à un arbre, Il va passer toute sa vie à penser qu'il est stupide.    
+> --- Albert Einstein    
+
+## 
 > Échouer c’est avoir la possibilité de recommencer de manière plus intelligente.  
 > --- Henry Ford    
 
