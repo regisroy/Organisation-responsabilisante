@@ -131,7 +131,9 @@
 > --- Martin Luther-King
 
 ## 
-> 
+> Le mensonge donne des fleurs mais pas de fruits
+> --- Proverbe africain
+
 
 
 
