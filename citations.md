@@ -131,9 +131,12 @@
 > --- Martin Luther-King
 
 ## 
-> Le mensonge donne des fleurs mais pas de fruits
+> Le mensonge donne des fleurs mais pas de fruits.    
 > --- Proverbe africain
 
+## 
+> Tout seul on va plus vite, ensemble on va plus loin.    
+> --- Proverbe africain
 
 
 
