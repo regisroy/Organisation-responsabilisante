@@ -22,7 +22,7 @@
 > --- Albert Einstein
 
 ##  
-> Nous devons devenir le changement que nous souhaitons voir dans le monde,  
+> Nous devons devenir le changement que nous souhaitons voir dans le monde.
 > --- Gandhi  
   
 ##  
@@ -118,11 +118,11 @@
 > --- Jean Jaurès
 
 ## 
-> Ne soyez jamais certains de rien.
+> Ne soyez jamais certains de rien.    
 > --- Bertrand Russell
 
 ## 
-> Nous devons apprendre à vivre ensemble comme des frères, sinon nous allons mourir tous ensemble comme des idiots.
+> Nous devons apprendre à vivre ensemble comme des frères, sinon nous allons mourir tous ensemble comme des idiots.    
 > --- Martin Luther-King
 
 ## 
