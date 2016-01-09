@@ -121,6 +121,12 @@
 > Ne soyez jamais certains de rien.
 > --- Bertrand Russell
 
+## 
+> Nous devons apprendre à vivre ensemble comme des frères, sinon nous allons mourir tous ensemble comme des idiots.
+> --- Martin Luther-King
+
+## 
+> 
 
 
 
