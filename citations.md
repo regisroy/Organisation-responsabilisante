@@ -138,6 +138,11 @@
 > Tout seul on va plus vite, ensemble on va plus loin.    
 > --- Proverbe africain
 
+## 
+> il n'y a pas de vent favorable pour celui qui ne sait pas où il va.    
+> --- Goethe    
 
+##
+> 
 
 
