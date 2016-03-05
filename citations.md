@@ -143,6 +143,7 @@
 > --- Goethe    
 
 ##
-> 
+> On ne va jamais aussi loin que lorsqu'on ne sait pas ou l'on va.    
+> --- Christophe Colomb
 
 
