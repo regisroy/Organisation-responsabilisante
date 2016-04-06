@@ -146,4 +146,7 @@
 > On ne va jamais aussi loin que lorsqu'on ne sait pas ou l'on va.    
 > --- Christophe Colomb
 
+##
+> Une question qui n’est pas posée est une porte qui demeure close
+> --- Marilee Goldberg
 
