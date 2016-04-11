@@ -66,3 +66,40 @@ A la lecture de l'audit, le management décide de louer les services de consulta
 Les français mettent aussi en ½uvre un système de stimulation pour encourager le seul rameur de l'équipe à travailler plus . Baptisé " La qualité et le Zéro défaut ", il repose sur des réunions, des dîners et une prime sur objectif pour le rameur. La course a lieu, et, cette fois les japonais gagnent avec deux kilomètres d'avance.
 
 Humiliée, la direction française licencie le rameur, stoppe la mise en chantier d'un nouvel aviron, vend le bateau et annule tout investissement. Puis elle récompense les barreurs managers de leurs efforts en leur donnant le prix de la performance. Enfin elle distribue l'argent économisé par ces mesures de restriction à tous les directeurs seniors. 
+
+
+## Personne aĝée et écologie
+A la caisse d'un supermarché, une vieille dame choisit un sac en plastique pour ranger ses achats. La caissière lui reproche de ne pas se mettre à l'écologie et lui dit:
+"Votre génération ne comprend tout simplement pas le mouvement écologique. Seuls les jeunes vont payer pour la vieille génération qui a gaspillé toutes les ressources" !
+La vieille femme s'excuse auprès de la caissière et explique :
+"Je suis désolée, il n’y avait pas de mouvement écologiste de mon temps".
+
+Alors qu'elle quitte la caisse, la mine déconfite, la caissière ajoute :
+"Ce sont des gens comme vous qui ont ruiné toutes les ressources à nos dépens. C'est vrai, vous ne considériez absolument pas la protection de l'environnement dans votre temps" !
+
+Alors, un peu énervée, la vieille dame fait observer qu'à l'époque on retournait les bouteilles de verre consignées au magasin.
+
+Le magasin les renvoyait à l'usine pour être lavées, stérilisées et remplies à nouveau : Les bouteilles étaient recyclées, mais on ne connaissait pas le mouvement écologique. Elle ajoute : De mon temps, on montait l'escalier à pied: on n'avait pas d'escaliers roulants et peu d’ascenseurs. On ne prenait pas sa voiture à chaque fois qu'il fallait se déplacer de deux rues : On marchait jusqu'à l'épicerie du coin. Mais, c'est vrai, on ne connaissait pas le mouvement écologiste.
+
+On ne connaissait pas les couches jetables : On lavait les couches des bébés. On faisait sécher les vêtements dehors sur une corde à linge, pas dans un machine de 3 000 watts. On utilisait l'énergie éolienne et solaire pour sécher les vêtements. On ravaudait systématiquement les vêtements qui passaient d'un frère ou d'une soeur à l'autre.
+
+Mais, vous avez raison, on ne connaissait pas le mouvement écologiste. On n'avait qu'une TV (quand on en avait) ou une radio dans la maison ; pas une dans chaque chambre.
+
+
+Et la télévision avait un petit écran de la taille d'une boîte de pizza, pas un écran de la taille de l'État du Texas. On avait un réveil qu’on remontait le soir.
+
+Dans la cuisine, on s'activait pour préparer les repas ; on ne disposait pas de tous ces gadgets électriques spécialisés pour tout préparer sans efforts et qui bouffent des watts autant qu'EDF en produit.
+
+Quand on emballait des éléments fragiles à envoyer par la poste, on utilisait comme rembourrage du papier journal ou de la ouate, dans des boîtes ayant déjà servi, pas des bulles en mousse de polystyrène ou en plastique.
+
+On n'avait pas de tondeuses à essence autopropulsées ou autoportées : On utilisait l'huile de coude pour tondre le gazon. On travaillait physiquement; on n'avait pas besoin d'aller dans un club de gym pour courir sur des tapis roulants qui fonctionnent à l'électricité.
+
+Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. On buvait de l'eau à la fontaine quand on avait soif. On n'utilisait pas de tasses ou de bouteilles en plastique à jeter. On remplissait les stylos dans une bouteille d'encre au lieu d'acheter un nouveau stylo. On remplaçait les lames de rasoir au lieu de jeter le rasoir entier après quelques utilisations.
+
+Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. Les gens prenaient le bus, le métro, le train et les enfants se rendaient à l'école à vélo ou à pied au lieu d'utiliser la voiture familiale et maman comme un service de taxi 24 heures sur 24. Les enfants gardaient le même cartable durant plusieurs années, les cahiers continuaient d'une année sur l'autre, les crayons de couleurs, gommes, taille- crayon et autres accessoires duraient tant qu'ils pouvaient, pas un cartable tous les ans et des cahiers jetés fin juin, de nouveaux crayons et gommes avec un nouveau slogan à chaque rentrée.
+
+
+Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. On n’avait qu’une prise de courant par pièce, et pas de bande multiprises pour alimenter toute la panoplie des accessoires électriques indispensables aux jeunes d'aujourd'hui.
+
+ALORS VIENS PAS ME FAIRE CH... AVEC TON MOUVEMENT ÉCOLOGISTE ! Si il y a des mouvements écolo aujourd’hui, c’est justement parce que vous, les jeunes, êtes trop fainéants pour consommer moins…….. 
+
