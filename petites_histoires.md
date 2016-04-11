@@ -2,6 +2,7 @@
 
 ## lien
 http://ego-vital.com/category/paraboles-connues
+http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriales
 
 
 ## La Fable de la Fourmi heureuse
