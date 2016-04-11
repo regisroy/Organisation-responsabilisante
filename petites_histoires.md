@@ -55,4 +55,14 @@ L'Indien répond que ces quelques poissons suffisent à assurer la subsistance d
 - Après?
 - ...Vous pourrez prendre votre retraite, habiter dans un petit village côtier, faire la grasse matinée, jouer avec vos enfants, pêcher un peu, faire la sieste avec votre famille, et passer vos soirées à boire du thé au lait et à chanter avec vos amis… 
 
-......
+## LE RAMEUR ET LES BARREURS
+
+Une firme japonaise et une société française décident de faire une course d'aviron. Les deux équipes s'entraînent dur. Les japonais gagnent avec plus d'un kilomètre d'avance.
+
+Les Français sont très affectés. Leur management se réunit pour chercher la cause de l'échec. Une équipe d'audit constitués de senior-managers est désignée. Apres enquête, ils concluent que l'équipe japonaise est constituée de huit rameurs pour un barreur, alors que l'équipe française a huit barreurs pour un rameur.
+
+A la lecture de l'audit, le management décide de louer les services de consultants. Après avoir perçu d'énormes honoraires, ils rendent leur avis : l'équipe française doit avoir plus de rameurs et moins de barreurs. La structure de l'équipe française est donc réorganisée. Mais, comme personne ne veut devenir rameur, il est décide de créer quatre postes de barreurs superviseurs, trois postes de barreurs super-intendants et un de barreur super-intendant assistant manager.
+
+Les français mettent aussi en ½uvre un système de stimulation pour encourager le seul rameur de l'équipe à travailler plus . Baptisé " La qualité et le Zéro défaut ", il repose sur des réunions, des dîners et une prime sur objectif pour le rameur. La course a lieu, et, cette fois les japonais gagnent avec deux kilomètres d'avance.
+
+Humiliée, la direction française licencie le rameur, stoppe la mise en chantier d'un nouvel aviron, vend le bateau et annule tout investissement. Puis elle récompense les barreurs managers de leurs efforts en leur donnant le prix de la performance. Enfin elle distribue l'argent économisé par ces mesures de restriction à tous les directeurs seniors. 
