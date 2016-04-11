@@ -8,3 +8,13 @@ Moi j'aime le cinéma, mon mari aussi ! J'aime aller à la mer, mon mari aussi !
 J'aime les hommes …..et ben lui AUSSI !!!!!
 
 # 2
+Birgit : j'ai ordonné à Helmut mon mari de préparer le dîner.
+Le premier jour, rien, mais le troisième jour, Helmut s'est mis à préparer les repas.
+
+Isabella : j'ai dit à mon mari : Luigi, à partir de domain, tou nettoies toi-même la maison, capito ?
+Le premier jour, rien, mais le troisième, Luigi avait passé l'aspirateur.
+
+Aicha : j’ai dit à mon mari : Ahmed, ripasse le linge, s'pice de féignasse.
+Le premier jour, rien, mais li troisième ji recommence à rivoir un piti peu de l'oeil gauche !
+
+# 3
