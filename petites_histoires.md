@@ -1,7 +1,7 @@
 # Paraboles / Petites et grandes histoires
 
 ## lien
-http://ego-vital.com/category/paraboles-connues
+http://ego-vital.com/category/paraboles-connues    
 http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriales
 
 
