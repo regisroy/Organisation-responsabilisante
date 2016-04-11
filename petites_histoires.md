@@ -1,5 +1,9 @@
 # Paraboles / Petites et grandes histoires
 
+## lien
+http://ego-vital.com/category/paraboles-connues
+
+
 ## La Fable de la Fourmi heureuse
 Voici une parabole a été partagée avec moi lors d'une transformation d'entreprise.
 Les paraboles sont assez efficaces ... cf LaFontaine (Le chêne et le roseau)
