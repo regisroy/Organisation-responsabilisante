@@ -35,7 +35,7 @@ Si malgré tout, tu es productif, ne montre pas que tu es heureux au travail,on 
 Si tu t'obstines à être une Fourmi heureuse et productive, monte ta propre entreprise : au moins tu n'auras pas à faire vivre les Frelon, Coccinelle, Araignée, Cigale, Hibou et autre Cafard.   
 Lamentablement, tout ceci est basé sur des études scientifiques universitaires qui démontrent que la majorité des êtres humains tendent à devenir des parasites.  
 
-## Un indien dans un viollage au bord de l'eau   
+## Un indien dans un village au bord de l'eau   
 Au bord de l’eau, dans un petit village du sud de l'Inde, un canot rentre au port.
 
 Un américain qui est là, complimente le pêcheur tamoul sur la qualité de ses prises et lui demande combien de temps il lui a fallu pour les capturer.
