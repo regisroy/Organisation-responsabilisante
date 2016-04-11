@@ -12,8 +12,8 @@ Les paraboles sont assez efficaces ... cf LaFontaine (Le chêne et le roseau)
 **Principe de Parkinson: La Fable de la Fourmi heureuse**   
 Il était une fois, une Fourmi heureuse et productive qui tous les jours arrivait de bonne heure à son travail.   
 Elle passait toute sa journée à travailler dans la joie et la bonne humeur, poussant même la chansonnette.   
-Elle était heureuse de travailler et son rendement était excellent mais, malheur, elle n'était pas pilotée par un manager !  
-Le Frelon, PDG de l'entreprise, considérant qu'il n'était pas possible que la situation puisse perdurer, créa un poste de manager pour lequel il recruta une Coccinelle avec beaucoup d'expérience.   
+Elle était heureuse de travailler et son rendement était excellent mais, le PDG se savait pas dans le détail ce qu'elle faisait. Comment elle pouvait être si productive ?  
+Le Frelon, PDG de l'entreprise, considéra que c'était bien mais qu'elle pourrait surement faire mieux si elle avait un manager , quelques controles et un processus bien défini. Ainsi un poste de manager fut créer pour lequel il recruta une Coccinelle avec beaucoup d'expérience.   
 La première préoccupation de la Coccinelle fut d'organiser les horaires d'entrée et de sortie de la fourmi. Elle créa également un système de compte-rendu et de fiches navettes.     
 Très vite, il fallut engager une secrétaire pour l'aider à préparer les dossiers et le reporting, si bien qu'elle recruta une Araignée qui mit sur pied un système de classement et qui fut chargée de répondre au téléphone.  
 Pendant ce temps là, la fourmi heureuse et productive continuait de travailler, travailler, travailler.   
@@ -107,4 +107,10 @@ Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. Les gens prena
 Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. On n’avait qu’une prise de courant par pièce, et pas de bande multiprises pour alimenter toute la panoplie des accessoires électriques indispensables aux jeunes d'aujourd'hui.
 
 ALORS VIENS PAS ME FAIRE CH... AVEC TON MOUVEMENT ÉCOLOGISTE ! Si il y a des mouvements écolo aujourd’hui, c’est justement parce que vous, les jeunes, êtes trop fainéants pour consommer moins…….. 
+
+# 4
+## Histoire du père et du fils sur le fleuve
+C'est l'histoire d'un père et de son fils qui habite d'un côté du fleuve avec son fils et qui va souvent de l'autre côté du fleuve par une petite passerelle en bout toute bringuebalante. 
+* morale : il ne faut pas forcer les gens à changer dans un et à réaliser les choses avec notre façon. Chacun à sa façon de de travailler.
+
 
