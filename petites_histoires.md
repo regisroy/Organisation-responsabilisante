@@ -35,5 +35,24 @@ Si malgré tout, tu es productif, ne montre pas que tu es heureux au travail,on 
 Si tu t'obstines à être une Fourmi heureuse et productive, monte ta propre entreprise : au moins tu n'auras pas à faire vivre les Frelon, Coccinelle, Araignée, Cigale, Hibou et autre Cafard.   
 Lamentablement, tout ceci est basé sur des études scientifiques universitaires qui démontrent que la majorité des êtres humains tendent à devenir des parasites.  
 
-## Autres histoires  
-...
+## Un indien dans un viollage au bord de l'eau   
+Au bord de l’eau, dans un petit village du sud de l'Inde, un canot rentre au port.
+
+Un américain qui est là, complimente le pêcheur tamoul sur la qualité de ses prises et lui demande combien de temps il lui a fallu pour les capturer.
+- Pas très longtemps, répond l'indien tamoul.
+- Mais alors, pourquoi n’êtes-vous pas resté en mer plus longtemps pour en attraper plus? demande l’Américain.
+L'Indien répond que ces quelques poissons suffisent à assurer la subsistance de sa famille.
+- L’Américain demande alors : Mais que faites-vous le reste du temps?
+- Je fais la grasse matinée, je pêche un peu, je joue avec mes enfants, je fais la sieste avec ma famille. Le soir, je vais au village voir mes amis, nous buvons du thé au lait et nous chantons. J’ai une vie bien remplie.
+
+- L’Américain l’interrompt : J’ai un MBA de l’université de Harvard et je peux vous aider. Vous devriez commencer par pêcher plus longtemps. Avec les bénéfices dégagés, vous pourriez acheter un plus gros bateau. Avec l’argent que vous rapporterait ce bateau, vous pourriez en acheter un deuxième et ainsi de suite jusqu’à ce que vous possédiez une flotte de chalutiers. Au lieu de vendre votre poisson à un intermédiaire, vous pourriez négocier directement avec l’usine et même ouvrir votre propre usine. Vous pourriez alors quitter votre petit village pour Bombay, Los Angeles, puis peut-être New-York d’où vous dirigeriez toutes vos affaires.
+
+- L'Indien demande alors : Et combien de temps cela prendrait-il ?
+- 10 ou 20 ans, répond l’Américain.
+- Et après?
+- Après? C’est là que ça devient intéressant, répond l’Américain en riant, quand le moment sera venu, vous pourrez introduire votre société en bourse et vous gagnerez des millions.
+- Des millions? Mais après?
+- Après?
+- ...Vous pourrez prendre votre retraite, habiter dans un petit village côtier, faire la grasse matinée, jouer avec vos enfants, pêcher un peu, faire la sieste avec votre famille, et passer vos soirées à boire du thé au lait et à chanter avec vos amis… 
+
+......
