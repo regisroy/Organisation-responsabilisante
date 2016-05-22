@@ -150,3 +150,9 @@
 > Une question qui n’est pas posée est une porte qui demeure close
 > --- Marilee Goldberg
 
+##
+> Traverser la rivière en tâtant une pierre à la fois 
+> --- Deng Xiao Ping
+
+##
+> 
