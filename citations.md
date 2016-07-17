@@ -155,4 +155,8 @@
 > --- Deng Xiao Ping
 
 ##
-> 
+> Plus vite on vide le verre, plus vite il est vide.
+> --- inconnu
+
+##  
+>  
