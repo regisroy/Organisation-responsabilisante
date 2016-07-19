@@ -159,4 +159,9 @@
 > --- inconnu
 
 ##  
+> Si tu donnes un poisson à un homme, il mangera un jour. 
+> Si tu lui apprends à pêcher, il mangera toujours.
+> --- Lao Tseu
+
+##  
 >  
