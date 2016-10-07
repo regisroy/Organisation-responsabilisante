@@ -3,6 +3,8 @@
 ## lien
 http://ego-vital.com/category/paraboles-connues    
 http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriales
+https://fr.wikipedia.org/wiki/Parabole_(rh%C3%A9torique)
+
 
 ## 0/ paraboles à creuser
 * le trafic routier pour expliquer l'agilité ([1 présentation](http://fr.slideshare.net/AgiletourGeneve/la-parabole-du-trafic-urbain-ou-comment-expliquer-lagilit-grandmaman))
