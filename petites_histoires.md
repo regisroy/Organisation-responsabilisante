@@ -7,6 +7,7 @@ http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriale
 ## 0/ paraboles à creuser
 * le trafic routier pour expliquer l'agilité ([1 présentation](http://fr.slideshare.net/AgiletourGeneve/la-parabole-du-trafic-urbain-ou-comment-expliquer-lagilit-grandmaman))
 * l'histoire du cygne noir à la renaissance ([wikipedia](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_cygne_noir))
+* histoire de l'âne pour comprendre la crise : [histoire âne](http://financerlavenir.fnh.org/comprendre/la-parabole-des-anes-pour-comprendre-la-crise/)
 
 ## 1/ La Fable de la Fourmi heureuse
 Voici une parabole a été partagée avec moi lors d'une transformation d'entreprise.
