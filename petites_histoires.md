@@ -125,3 +125,32 @@ Un jour, dit la légende, il y eut un immense incendie de forêt. Tous les anima
 
 Et le colibri lui répondit :« Je le sais, mais je fais ma part. »
 
+## 7/ La parabole du loup ou Etre et Agir en Conscience
+Un conte amérindien qui illustre le leadership conscient. C’est à dire Etre et agir en conscience.
+
+Un homme âgé dit à son petit-fils, venu le voir très en colère car un ami s’était montré injuste envers lui :
+
+- « Laisse-moi te raconter une histoire…
+
+Il m’arrive aussi de ressentir de la haine contre ceux qui se conduisent mal et n’en éprouvent aucun regret.
+Mais la haine t’épuise et ne blesse pas ton ennemi.
+C’est comme avaler du poison et désirer que ton ennemi en meure.
+J’ai souvent combattu ces sentiments. »
+
+Il continua :
+
+« C’est comme si j’avais deux loups à l’intérieur de moi :
+- le premier est bon et ne me fait aucun tort. Il vit en harmonie avec tout ce qui l’entoure.
+Il combat uniquement lorsque c’est juste de le faire, et il le fait de manière juste.
+- Mais l’autre loup est plein de colère. La plus petite chose le précipite dans des accès de rage. Il se bat contre n’importe qui, tout le temps, sans raison.
+Il n’est pas capable de penser parce que sa colère et sa haine sont immenses.
+Il est désespérément en colère, et pourtant sa colère ne change rien.
+
+Il est parfois si difficile de vivre avec ces deux loups à l’intérieur de moi, parce que tous deux veulent dominer mon esprit. »
+
+Le garçon regarda attentivement son grand-père dans les yeux et demanda :
+« Lequel des deux loups l’emporte, grand-père ? »
+
+Le grand-père sourit et répondit doucement :
+– « Celui que tu nourris. »
+
