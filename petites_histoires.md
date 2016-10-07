@@ -5,8 +5,8 @@ http://ego-vital.com/category/paraboles-connues
 http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriales
 
 ## 0/ paraboles à creuser
-* le trafic routier pour expliquer l'agilité
-* l'histoire du cygne noir à la renaissance 
+* le trafic routier pour expliquer l'agilité ([1 présentations](http://fr.slideshare.net/AgiletourGeneve/la-parabole-du-trafic-urbain-ou-comment-expliquer-lagilit-grandmaman))
+* l'histoire du cygne noir à la renaissance ([]())
 
 ## 1/ La Fable de la Fourmi heureuse
 Voici une parabole a été partagée avec moi lors d'une transformation d'entreprise.
