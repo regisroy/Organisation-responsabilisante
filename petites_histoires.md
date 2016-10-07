@@ -5,7 +5,7 @@ http://ego-vital.com/category/paraboles-connues
 http://www.innovationmanageriale.com/concepts/le-top-6-des-paraboles-manageriales
 
 
-## La Fable de la Fourmi heureuse
+## 1/ La Fable de la Fourmi heureuse
 Voici une parabole a été partagée avec moi lors d'une transformation d'entreprise.
 Les paraboles sont assez efficaces ... cf LaFontaine (Le chêne et le roseau)
 
@@ -40,7 +40,7 @@ Si malgré tout, tu es productif, ne montre pas que tu es heureux au travail,on 
 Si tu t'obstines à être une Fourmi heureuse et productive, monte ta propre entreprise : au moins tu n'auras pas à faire vivre les Frelon, Coccinelle, Araignée, Cigale, Hibou et autre Cafard.   
 Lamentablement, tout ceci est basé sur des études scientifiques universitaires qui démontrent que la majorité des êtres humains tendent à devenir des parasites.  
 
-## Un indien dans un village au bord de l'eau   
+## 2/ Un indien dans un village au bord de l'eau   
 Au bord de l’eau, dans un petit village du sud de l'Inde, un canot rentre au port.
 
 Un américain qui est là, complimente le pêcheur tamoul sur la qualité de ses prises et lui demande combien de temps il lui a fallu pour les capturer.
@@ -48,8 +48,8 @@ Un américain qui est là, complimente le pêcheur tamoul sur la qualité de ses
 - Mais alors, pourquoi n’êtes-vous pas resté en mer plus longtemps pour en attraper plus? demande l’Américain.
 L'Indien répond que ces quelques poissons suffisent à assurer la subsistance de sa famille.
 - L’Américain demande alors : Mais que faites-vous le reste du temps?
-- Je fais la grasse matinée, je pêche un peu, je joue avec mes enfants, je fais la sieste avec ma famille. Le soir, je vais au village voir mes amis, nous buvons du thé au lait et nous chantons. J’ai une vie bien remplie.
-
+- Je fais la grasse matinée, je pêche un peu, je joue avec mes enfants, je fais la sieste avec ma famille. Le soir, je vais au village voir mes amis, nous buvons du thé au lait et nous chantons. J’ai une vie bien remplie.    
+    
 - L’Américain l’interrompt : J’ai un MBA de l’université de Harvard et je peux vous aider. Vous devriez commencer par pêcher plus longtemps. Avec les bénéfices dégagés, vous pourriez acheter un plus gros bateau. Avec l’argent que vous rapporterait ce bateau, vous pourriez en acheter un deuxième et ainsi de suite jusqu’à ce que vous possédiez une flotte de chalutiers. Au lieu de vendre votre poisson à un intermédiaire, vous pourriez négocier directement avec l’usine et même ouvrir votre propre usine. Vous pourriez alors quitter votre petit village pour Bombay, Los Angeles, puis peut-être New-York d’où vous dirigeriez toutes vos affaires.
 
 - L'Indien demande alors : Et combien de temps cela prendrait-il ?
@@ -60,7 +60,8 @@ L'Indien répond que ces quelques poissons suffisent à assurer la subsistance d
 - Après?
 - ...Vous pourrez prendre votre retraite, habiter dans un petit village côtier, faire la grasse matinée, jouer avec vos enfants, pêcher un peu, faire la sieste avec votre famille, et passer vos soirées à boire du thé au lait et à chanter avec vos amis… 
 
-## LE RAMEUR ET LES BARREURS
+
+## 3/ LE RAMEUR ET LES BARREURS
 
 Une firme japonaise et une société française décident de faire une course d'aviron. Les deux équipes s'entraînent dur. Les japonais gagnent avec plus d'un kilomètre d'avance.
 
@@ -73,7 +74,7 @@ Les français mettent aussi en ½uvre un système de stimulation pour encourager
 Humiliée, la direction française licencie le rameur, stoppe la mise en chantier d'un nouvel aviron, vend le bateau et annule tout investissement. Puis elle récompense les barreurs managers de leurs efforts en leur donnant le prix de la performance. Enfin elle distribue l'argent économisé par ces mesures de restriction à tous les directeurs seniors. 
 
 
-## Personne aĝée et écologie
+## 4/ Personne aĝée et écologie
 A la caisse d'un supermarché, une vieille dame choisit un sac en plastique pour ranger ses achats. La caissière lui reproche de ne pas se mettre à l'écologie et lui dit:
 "Votre génération ne comprend tout simplement pas le mouvement écologique. Seuls les jeunes vont payer pour la vieille génération qui a gaspillé toutes les ressources" !
 La vieille femme s'excuse auprès de la caissière et explique :
@@ -108,9 +109,13 @@ Mais, c'est vrai, on ne connaissait pas le mouvement écologiste. On n’avait q
 
 ALORS VIENS PAS ME FAIRE CH... AVEC TON MOUVEMENT ÉCOLOGISTE ! Si il y a des mouvements écolo aujourd’hui, c’est justement parce que vous, les jeunes, êtes trop fainéants pour consommer moins…….. 
 
-# 4
-## Histoire du père et du fils sur le fleuve
+## 5/ Histoire du père et du fils sur le fleuve
 C'est l'histoire d'un père et de son fils qui habite d'un côté du fleuve avec son fils et qui va souvent de l'autre côté du fleuve par une petite passerelle en bout toute bringuebalante. 
 * morale : il ne faut pas forcer les gens à changer dans un et à réaliser les choses avec notre façon. Chacun à sa façon de de travailler.
 
+
+## 6/ Le Colibri
+Un jour, dit la légende, il y eut un immense incendie de forêt. Tous les animaux terrifiés, atterrés, observaient impuissants le désastre. Seul le petit colibri s’activait, allant chercher quelques gouttes avec son bec pour les jeter sur le feu. Après un moment, le tatou, agacé par cette agitation dérisoire, lui dit : « Colibri ! Tu n’es pas fou ? Ce n’est pas avec ces gouttes d’eau que tu vas éteindre le feu ! »
+
+Et le colibri lui répondit :« Je le sais, mais je fais ma part. »
 
