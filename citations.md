@@ -151,16 +151,16 @@
 > --- Marilee Goldberg
 
 ##
-> Traverser la rivière en tâtant une pierre à la fois 
+> Traverser la rivière en tâtant une pierre à la fois    
 > --- Deng Xiao Ping
 
 ##
-> Plus vite on vide le verre, plus vite il est vide.
+> Plus vite on vide le verre, plus vite il est vide.    
 > --- inconnu
 
 ##  
-> Si tu donnes un poisson à un homme, il mangera un jour. 
-> Si tu lui apprends à pêcher, il mangera toujours.
+> Si tu donnes un poisson à un homme, il mangera un jour.      
+> Si tu lui apprends à pêcher, il mangera toujours.     
 > --- Lao Tseu
 
 ##  
@@ -168,7 +168,7 @@
 > --- Proverbe africain
 
 ##    
-> La simplicité est la sophistication suprême
+> La simplicité est la sophistication suprême    
 > ---Léonard de Vinci.    
 
 ##     
