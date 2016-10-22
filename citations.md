@@ -172,10 +172,19 @@
 > ---Léonard de Vinci.    
 
 ##     
-> On ne peut pas changer les gens, on peut juste leur montrer un chemin puis leur donner envie de l’emprunter
+> On ne peut pas changer les gens, on peut juste leur montrer un chemin puis leur donner envie de l’emprunter     
 > --- Laurent GOUNELLE
 
 ##     
->     
+> La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter,      
+> mais lorsqu'il n'y a plus rien à retirer.     
+> --- Antoine de Saint-Exupéry   
 
+##     
+> La simplicité peut être plus difficile à atteindre que la compexité :     
+>   il faut travailler dur pour arriver à faire simple.     
+> --- Steve Jobs      
+
+##     
+>      
 
