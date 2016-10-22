@@ -186,5 +186,11 @@
 > --- Steve Jobs      
 
 ##     
->      
+> La valeur de l'expérience d'un autre est de donner l'espoir, non de vous dire comment ou s'il faut faire.    
+> --- Peter Block
+
+##     
+>     
+
+     
 
