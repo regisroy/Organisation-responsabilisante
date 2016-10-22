@@ -172,5 +172,10 @@
 > ---Léonard de Vinci.    
 
 ##     
->    
+> On ne peut pas changer les gens, on peut juste leur montrer un chemin puis leur donner envie de l’emprunter
+> --- Laurent GOUNELLE
+
+##     
+>     
+
 
