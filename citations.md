@@ -190,7 +190,11 @@
 > --- Peter Block
 
 ##     
->     
+> Good decisions come from experience     
+> Experience come from bad decisions     
+> --- Kent Beck     
+
+
 
      
 
