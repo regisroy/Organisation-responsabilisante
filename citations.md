@@ -194,7 +194,9 @@
 > Experience come from bad decisions     
 > --- Kent Beck     
 
-
+##     
+> Ta deuxieme vie commence quand tu comprends que tu n'en as qu'une.     
+> --- Raphaëlle Giordano     
 
      
 
