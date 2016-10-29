@@ -198,5 +198,13 @@
 > Ta deuxieme vie commence quand tu comprends que tu n'en as qu'une.     
 > --- Raphaëlle Giordano     
 
+##     
+> Car, en vérité, un grand amour naît d’une grande connaissance de l’objet aimé,     
+> et si vous ne le connaissez que peu, vous ne pourrez l’aimer que peu ou pas du tout.     
+> --- Léonard de Vinci     
+
+##     
+>     
+
      
 
