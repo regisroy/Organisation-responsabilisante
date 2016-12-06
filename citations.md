@@ -204,7 +204,8 @@
 > --- Léonard de Vinci     
 
 ##     
->     
+> Le meilleur gouvernement est celui qui nous enseigne à nous gouverner nous même.    
+> --- Goethe    
 
      
 
