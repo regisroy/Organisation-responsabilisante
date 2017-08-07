@@ -1,5 +1,3 @@
-PIERRE DESPROGES...
-
 - Je ne bois jamais à outrance, je ne sais même pas où c'est.
 
 - L’ouverture d'esprit n'est pas une fracture du crâne.
