@@ -192,6 +192,7 @@ Org Chart: 400 Leaders, 0 Bosses](http://www.inc.com/audacious-companies/leigh-b
 - Vidéo
   - [Morning Star's Radical Approach to Management](https://www.youtube.com/watch?v=qqUBdX1d3ok)
   - [Chris Rufer - Definition of Self-Management](https://www.youtube.com/watch?v=HXGtBRqVtMc)
+  - [From Employees to Self-Managers](http://www.frominsighttoaction.com/employees-self-managers-morningstars-worldview/)
 
 
 ### [Patagonia](http://www.patagonia.com/eu/frFR)
