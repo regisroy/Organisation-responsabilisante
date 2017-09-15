@@ -215,7 +215,11 @@
 > Prenez soin de votre corps. C’est le seul endroit où vous êtes obligé de vivre.
 > --- Jim Rohn    
 
-##
+## 
+> Vous ne vivez qu’une fois, mais si vous le faites bien, une fois est suffisant.
+--- Mae West    
+
+## 
 > 
 
      
