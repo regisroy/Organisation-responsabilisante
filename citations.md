@@ -211,8 +211,12 @@
 > Qu'est-ce que l'enfer ? Lors de votre dernier jour sur terre, la personne que vous êtes devenue rencontrera la personne que vous auriez pu devenir.    
 > --- Anonyme    
 
-##     
+##
+> Prenez soin de votre corps. C’est le seul endroit où vous êtes obligé de vivre.
+> --- Jim Rohn    
 
+##
+> 
 
      
 
