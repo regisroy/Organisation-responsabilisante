@@ -153,3 +153,23 @@ Le garçon regarda attentivement son grand-père dans les yeux et demanda :
 Le grand-père sourit et répondit doucement :
 – « Celui que tu nourris. »
 
+## /8 La parabole du pêcheur
+Un très riche banquier et investisseur américain se promène au bord de l’eau dans un petit village de la côte mexicaine et regarde un bateau de pêche qui rentre au port avec plusieurs thons.
+
+L’américain complimente le pêcheur pour la qualité de sa pêche et lui demande combien de temps il lui a fallu pour capturer les thons.
+« Pas très longtemps » répond le pêcheur
+« Mais alors, pourquoi vous n’êtes pas resté en mer plus longtemps pour attraper plus de thons ? » demande le banquier. Le pêcheur répond que les quelques thons péchés suffiront aux besoins de sa famille. L’américain demande alors :
+« Mais que faîtes-vous le reste du temps ? »
+« Je fais la grasse matinée, je pêche un peu, je joue avec mes enfants, je fais la sieste avec ma femme. Le soir je vais au village voir mes amis. Nous buvons du vin et jouons de la guitare. J’ai une vie bien remplie ».
+
+L’américain interrompt le pêcheur pour lui dire :
+«Ecoutes moi, j’ai un MBA de l’Université de Harvard, je suis banquier et je peux vous aider. Vous devriez d’abord commencer par pêcher plus longtemps. Avec les bénéfices dégagés, vous pourriez acheter un plus gros bateau. Avec l’argent que vous rapporterait ce bateau, vous pourriez en acheter un deuxième et ainsi de suite, jusqu’à ce que vous possédiez une flotte de chalutiers. Au lieu de vendre vos poissons à un intermédiaire, vous pourriez négocier directement avec l’usine, et même ouvrir votre propre usine. Vous pourriez alors quitter votre petit village pour Mexico City, puis Los Angeles, puis peut-être New York, d’où vous dirigeriez toutes vos affaires »
+
+Le pêcheur mexicain demanda alors :
+« Combien de temps cela prendrait-il ? »
+« Environ 15 à 20 ans », répond le banquier
+« Et après ? » demande le pêcheur mexicain
+« Après, c’est là que cela devient intéressant, répond l’américain en riant. Quand le moment sera venu, vous pourrez introduire votre société en bourse et vous gagnerez des millions »
+« Des millions ? Mais pour quoi faire ? » demande le pêcheur mexicain
+« Et bien après, vous pourrez enfin prendre votre retraite, profiter de la vie, habiter un petit village côtier du Mexique, faire la grasse matinée, jouer avec vos enfants, pêcher un peu, faire la sieste avec votre femme, et passer vos soirées à boire et à jouer de la guitare avec vos amis !! »
+
