@@ -207,5 +207,12 @@
 > Le meilleur gouvernement est celui qui nous enseigne à nous gouverner nous même.    
 > --- Goethe    
 
+##     
+> Lors de votre dernier jour sur terre, la personne que vous êtes devenue rencontrera la personne que vous auriez pu devenir.    
+> --- Anonyme    
+
+##     
+
+
      
 
