@@ -208,7 +208,7 @@
 > --- Goethe    
 
 ##     
-> Lors de votre dernier jour sur terre, la personne que vous êtes devenue rencontrera la personne que vous auriez pu devenir.    
+> Qu'est-ce que l'enfer ? Lors de votre dernier jour sur terre, la personne que vous êtes devenue rencontrera la personne que vous auriez pu devenir.    
 > --- Anonyme    
 
 ##     
