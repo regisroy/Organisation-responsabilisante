@@ -220,11 +220,12 @@
 --- Mae West    
 
 ##     
-> "La peur de la fausse note" Miles Davis (un musicien de jazz américain) disait « l'échec c'est d'avoir peur de rater ». Lorsque ses musiciens lui confiaient qu'ils avaient peur de jouer une fausse note, il leur disait qu'en vérité, il n'y a pas de fausse note, car seules les suivantes permettent de savoir si c'était la bonne. Or quand on échoue, on coupe la musique, on n'écoute pas la suite…    
+> "La peur de la fausse note" Miles Davis (un musicien de jazz américain) disait « l'échec c'est d'avoir peur de rater ».     
+Lorsque ses musiciens lui confiaient qu'ils avaient peur de jouer une fausse note, il leur disait qu'en vérité, il n'y a pas de fausse note, car seules les suivantes permettent de savoir si c'était la bonne. Or quand on échoue, on coupe la musique, on n'écoute pas la suite...    
 --- Miles Davis    
 
 ##
-> "Le pessimiste se plaint du vent, l'optimiste espère qu'il va changer, le réaliste ajuste ses voiles    
+> Le pessimiste se plaint du vent, l'optimiste espère qu'il va changer, le réaliste ajuste ses voiles    
 --- William Arthur WARD    
 
 ##
